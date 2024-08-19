@@ -1,0 +1,13 @@
+{
+    "id": "apsyntion-symbiosis",
+    "name": "Apsyntion Symbiosis",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target faction\u2019s units each gain Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",
+    "flavor_text": "Ranna no longer felt ill when the spores drifted upwards, no longer dizzy from the song of the world."
+}

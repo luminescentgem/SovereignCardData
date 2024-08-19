@@ -1,0 +1,13 @@
+{
+    "id": "relocation",
+    "name": "Relocation",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Take a citizen from any player\u2019s colony and add it to a target Citadel.",
+    "flavor_text": ""
+}

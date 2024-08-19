@@ -1,0 +1,15 @@
+{
+    "id": "inquisitors",
+    "name": "Inquisitors",
+    "faction": "neogenesis-church",
+    "attack": 2,
+    "armor": 1,
+    "health": 3,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "This unit\u2019s breach value is doubled.",
+    "flavor_text": "Brutal? Yes. Necessary? Absolutely. We will not be slaves to artificial masters.\r\n-Order Priest Gruman"
+}

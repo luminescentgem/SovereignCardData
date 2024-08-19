@@ -1,0 +1,15 @@
+{
+    "id": "terraformers",
+    "name": "Terraformers",
+    "faction": "utopian-remnant",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Your cards cost 1 less to Forge.",
+    "flavor_text": "Tear up the spore mats. That\u2019s my policy.\r\n-Foreman Domai"
+}

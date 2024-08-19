@@ -1,0 +1,15 @@
+{
+    "id": "absolution-sphere",
+    "name": "Absolution Sphere",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Flip all D who work Absolution Sphere.",
+    "flavor_text": "The first thing to enter the sphere was a young girl, gov-drafted, told nothing. Six days later it spat her out, babbling like a newborn."
+}

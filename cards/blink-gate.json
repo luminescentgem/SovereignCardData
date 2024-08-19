@@ -1,0 +1,15 @@
+{
+    "id": "blink-gate",
+    "name": "Blink Gate",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Move target unit you control to any position in any lane OR reveal a finished unit and forge it.",
+    "flavor_text": "Work crews refused to enter at first, convinced we had opened a gate to hell."
+}

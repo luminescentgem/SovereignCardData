@@ -1,0 +1,13 @@
+{
+    "id": "plutocracy",
+    "name": "Plutocracy",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "T used to work Forges do not flip when cards are finished.",
+    "flavor_text": "The poor have sometimes objected to being governed badly; the rich have always objected to being governed at all.\r\n-Datalinks"
+}

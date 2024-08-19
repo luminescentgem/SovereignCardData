@@ -1,0 +1,15 @@
+{
+    "id": "telepath-graft",
+    "name": "Telepath Graft",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)\r\nThis unit cannot move.",
+    "flavor_text": "Grafting lilin muscular dendrites into human cervical vertebrae is how some of us get our rocks off.\r\n-Rinn Bell, Graft artist"
+}

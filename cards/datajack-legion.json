@@ -1,0 +1,15 @@
+{
+    "id": "datajack-legion",
+    "name": "Datajack Legion",
+    "faction": "utopian-remnant",
+    "attack": 2,
+    "armor": 1,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)\r\nHealth lost from this unit is returned to your Citadel.",
+    "flavor_text": "For we are many."
+}

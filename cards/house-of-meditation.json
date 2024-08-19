@@ -1,0 +1,15 @@
+{
+    "id": "house-of-meditation",
+    "name": "House of Meditation",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Draw a card (you may exceed 8 cards).",
+    "flavor_text": "Mind and matter are one and the same here - we can coax Apsyntion if we listen.\r\n-Chimera Handler Lenaius"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "spore-weevils",
+    "name": "Spore Weevils",
+    "faction": "myrmidon-dominion",
+    "attack": 0,
+    "armor": 0,
+    "health": 4,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Squad (This unit gets +1 Attack for every health on it.)",
+    "flavor_text": "A blight of weevils knows only hunger."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "veteran-plate",
+    "name": "Veteran Plate",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Search your scrap for a unit, and forge it for no cost. Attach Veteran Armor. Any D used for initial health become T.\r\nIf Veteran Armor is ever removed, scrap the attached unit.",
+    "flavor_text": ""
+}

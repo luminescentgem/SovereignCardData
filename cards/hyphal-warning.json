@@ -1,0 +1,15 @@
+{
+    "id": "hyphal-warning",
+    "name": "Hyphal Warning",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit and all units in front of it have +1 Armor.",
+    "flavor_text": ""
+}

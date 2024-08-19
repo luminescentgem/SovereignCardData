@@ -1,0 +1,13 @@
+{
+    "id": "remake",
+    "name": "Remake",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target unit adds 2 health from the Creche.",
+    "flavor_text": ""
+}

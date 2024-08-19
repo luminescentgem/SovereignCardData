@@ -1,0 +1,13 @@
+{
+    "id": "warthirst",
+    "name": "Warthirst",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target unit gains +1 Attack for each unit in the enemy lane during combat.",
+    "flavor_text": "\u2018Warthirst\u2019 is the master\u2019s euphemism for stim-addicts and sleepwalkers. Battle fatigue worn as a badge of honor."
+}

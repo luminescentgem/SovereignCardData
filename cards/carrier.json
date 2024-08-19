@@ -1,0 +1,15 @@
+{
+    "id": "carrier",
+    "name": "Carrier",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit and adjacent units have a maximum Attack value of 1. They gain Pierce (This unit ignores Armor when in combat.)",
+    "flavor_text": ""
+}

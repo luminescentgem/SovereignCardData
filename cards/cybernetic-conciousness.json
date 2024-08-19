@@ -1,0 +1,13 @@
+{
+    "id": "cybernetic-conciousness",
+    "name": "Cybernetic Conciousness",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Units in target lane gain Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+    "flavor_text": "Runner to technocrat; datajacks skipping stones off drone hive security backbones. Input soul, output jazz."
+}

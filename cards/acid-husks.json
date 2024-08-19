@@ -1,0 +1,15 @@
+{
+    "id": "acid-husks",
+    "name": "Acid Husks",
+    "faction": "cult-of-apsynthos",
+    "attack": 3,
+    "armor": 0,
+    "health": 5,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "You may scrap a health token from this unit to have it gain Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.) until end of phase.",
+    "flavor_text": ""
+}

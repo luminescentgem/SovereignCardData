@@ -1,0 +1,15 @@
+{
+    "id": "gardens-of-kadesh",
+    "name": "Gardens of Kadesh",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "You may place one W\/U here from the Creche each time you score an Echo.",
+    "flavor_text": "Are these trees extinct if they can exist only within the shields? Could the same be said of our species?\r\n-Remnant Sha Teng"
+}

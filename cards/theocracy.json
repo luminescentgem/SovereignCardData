@@ -1,0 +1,15 @@
+{
+    "id": "theocracy",
+    "name": "Theocracy",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "You may move an additional citizen from this facility to your Citadel during your upkeep.",
+    "flavor_text": "A man driven by faith will work until his hands bleed, and his legs fail him."
+}

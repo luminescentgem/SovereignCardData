@@ -1,0 +1,13 @@
+{
+    "id": "tachyon-burst",
+    "name": "Tachyon Burst",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Return target unit to its owner\u2019s hand. Its health is returned to that player\u2019s Citadel.",
+    "flavor_text": "The idea of such a weapon is logically absurd, but we would be fools to call it ineffective."
+}

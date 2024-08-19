@@ -1,0 +1,15 @@
+{
+    "id": "watchdogs",
+    "name": "Watchdogs",
+    "faction": "sovereign-dronestate",
+    "attack": 3,
+    "armor": 1,
+    "health": 3,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "If this unit is at the front of the lane, you may rearrange this lane freely before battle.",
+    "flavor_text": ""
+}

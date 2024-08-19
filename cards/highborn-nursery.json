@@ -1,0 +1,15 @@
+{
+    "id": "highborn-nursery",
+    "name": "Highborn Nursery",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "Place a T from the Creche on this facility during your growth phase. Do not remove citizens from here during your upkeep.\r\nTTT\u27a4 Move all T on this facility to your Citadel.",
+    "flavor_text": ""
+}

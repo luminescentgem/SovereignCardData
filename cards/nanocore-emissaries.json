@@ -1,0 +1,15 @@
+{
+    "id": "nanocore-emissaries",
+    "name": "Nanocore Emissaries",
+    "faction": "machina-sapiens",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+    "flavor_text": "Not flesh and bone, nor pure data, the emissaries are somewhere in between."
+}

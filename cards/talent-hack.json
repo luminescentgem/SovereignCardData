@@ -1,0 +1,13 @@
+{
+    "id": "talent-hack",
+    "name": "Talent Hack",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "All factions gain D during their growth phase instead of T.",
+    "flavor_text": "A mind supported by a neural network is a mind that is vulnerable, both within and without."
+}

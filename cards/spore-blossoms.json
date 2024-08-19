@@ -1,0 +1,15 @@
+{
+    "id": "spore-blossoms",
+    "name": "Spore Blossoms",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",
+    "flavor_text": "Spores take root in battlefield casualties, turning bodies into blooms."
+}

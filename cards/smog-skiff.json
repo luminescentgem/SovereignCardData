@@ -1,0 +1,15 @@
+{
+    "id": "smog-skiff",
+    "name": "Smog Skiff",
+    "faction": "red-hegemony",
+    "attack": 1,
+    "armor": 2,
+    "health": 3,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)\r\nAdjacent units get -1 Attack",
+    "flavor_text": ""
+}

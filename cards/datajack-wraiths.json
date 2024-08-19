@@ -1,0 +1,15 @@
+{
+    "id": "datajack-wraiths",
+    "name": "Datajack Wraiths",
+    "faction": "machina-sapiens",
+    "attack": 3,
+    "armor": 0,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)\r\nCloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",
+    "flavor_text": ""
+}

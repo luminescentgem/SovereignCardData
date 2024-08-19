@@ -1,0 +1,15 @@
+{
+    "id": "stimshifts",
+    "name": "Stimshifts",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "Each citizen used to work this facility counts as two. Any citizens removed from this facility are scrapped.",
+    "flavor_text": "One Drone can work twice as hard for half the life."
+}

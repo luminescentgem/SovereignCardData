@@ -1,0 +1,15 @@
+{
+    "id": "flamer-crew",
+    "name": "Flamer Crew",
+    "faction": "undercity-brotherhood",
+    "attack": 2,
+    "armor": 1,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+    "flavor_text": "A grendel will burn just like anything else. The smell isn\u2019t much of a reward."
+}

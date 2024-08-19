@@ -1,0 +1,15 @@
+{
+    "id": "spider-battery",
+    "name": "Spider Battery",
+    "faction": "utopian-remnant",
+    "attack": 3,
+    "armor": 1,
+    "health": 2,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+    "flavor_text": ""
+}

@@ -1,0 +1,13 @@
+{
+    "id": "desperate-sacrifice",
+    "name": "Desperate Sacrifice",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Scrap a unit you control. Scrap health tokens equal to its Armor, divided among any number of units in one lane.",
+    "flavor_text": ""
+}

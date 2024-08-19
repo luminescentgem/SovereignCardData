@@ -1,0 +1,15 @@
+{
+    "id": "relic-seekers",
+    "name": "Relic Seekers",
+    "faction": "neogenesis-church",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        " human"
+    ],
+    "card_effect": "During your draw phase, you may put one non-echo card from your hand at the bottom of your deck before drawing.",
+    "flavor_text": ""
+}

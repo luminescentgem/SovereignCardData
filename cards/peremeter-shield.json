@@ -1,0 +1,15 @@
+{
+    "id": "peremeter-shield",
+    "name": "Peremeter Shield",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: All units in target defending lane gain +1 Armor until end of phase.",
+    "flavor_text": "We never saw the shield go up, but we felt the impact in our teeth as bullets shattered against air."
+}

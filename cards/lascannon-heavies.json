@@ -1,0 +1,15 @@
+{
+    "id": "lascannon-heavies",
+    "name": "Lascannon Heavies",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 3,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "You may scrap one health from this unit to switch its Armor and Attack values until end of phase.",
+    "flavor_text": "The lasconnon is a formidable weapon with a sizable downside - its propensity to overload after seconds of strain."
+}

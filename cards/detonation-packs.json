@@ -1,0 +1,15 @@
+{
+    "id": "detonation-packs",
+    "name": "Detonation Packs",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "When this unit resolves combat damage, it may add its Armor to its Attack value. If you do this, scrap one health.",
+    "flavor_text": ""
+}

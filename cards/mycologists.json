@@ -1,0 +1,15 @@
+{
+    "id": "mycologists",
+    "name": "Mycologists",
+    "faction": "cult-of-apsynthos",
+    "attack": 1,
+    "armor": 0,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "All units in this lane gain Resilient (Restore one health from the Creche during your growth phase.)",
+    "flavor_text": "At Apsynthos Crater, the spore mats have so much neurological activity you can see electrical arcs at twilight. These will be our children\u2019s diplomats."
+}

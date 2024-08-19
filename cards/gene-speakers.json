@@ -1,0 +1,15 @@
+{
+    "id": "gene-speakers",
+    "name": "Gene Speakers",
+    "faction": "cult-of-apsynthos",
+    "attack": 1,
+    "armor": 0,
+    "health": 4,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "Pierce (This unit ignores Armor when in combat.)\r\nAdjacent units restore one health from the Creche during your growth phase.",
+    "flavor_text": "A whisper in the ear, then through the heart."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "tundra-palace",
+    "name": "Tundra Palace",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Gain DDD on your Citadel from the Creche",
+    "flavor_text": "Tyranny of the majority."
+}

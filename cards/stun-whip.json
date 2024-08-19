@@ -1,0 +1,15 @@
+{
+    "id": "stun-whip",
+    "name": "Stun Whip",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "If this unit deals combat damage, the damaged unit has -1 Attack until the end of phase.",
+    "flavor_text": ""
+}

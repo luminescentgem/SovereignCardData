@@ -1,0 +1,15 @@
+{
+    "id": "hymn-of-knitting",
+    "name": "Hymn of Knitting",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Units adjacent to this one restore one health from the Creche during your   growth phase.",
+    "flavor_text": "Zen Gospel clerics form the backbone of nanite-infused troops, their song rippling over the battlefield like a soothing mist."
+}

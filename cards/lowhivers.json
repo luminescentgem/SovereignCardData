@@ -1,0 +1,15 @@
+{
+    "id": "lowhivers",
+    "name": "Lowhivers",
+    "faction": "undercity-brotherhood",
+    "attack": 2,
+    "armor": 0,
+    "health": 5,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "This unit gains one D from your Citadel during your growth phase.\r\nDuring your upkeep, flip a T on the Citadel or scrap Lowhivers.",
+    "flavor_text": ""
+}

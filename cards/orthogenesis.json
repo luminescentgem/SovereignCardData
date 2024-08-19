@@ -1,0 +1,13 @@
+{
+    "id": "orthogenesis",
+    "name": "Orthogenesis",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Choose a unit in your scrap and add it to a lane as if it were just forged. Attach this card.\r\nScrap this unit during your upkeep.",
+    "flavor_text": "<Die. Sleep. Always within the embrace. Wake, human.>\r\n-Promethea Datalog"
+}

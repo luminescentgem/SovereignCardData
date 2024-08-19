@@ -1,0 +1,15 @@
+{
+    "id": "duchess-of-ash",
+    "name": "Duchess of Ash",
+    "faction": "coriolan-exiles",
+    "attack": 2,
+    "armor": 1,
+    "health": 1,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Units in this lane gain +1 to their breach value.",
+    "flavor_text": "A melted throne makes fine bullets."
+}

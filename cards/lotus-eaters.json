@@ -1,0 +1,15 @@
+{
+    "id": "lotus-eaters",
+    "name": "Lotus Eaters",
+    "faction": "myrmidon-dominion",
+    "attack": 3,
+    "armor": 0,
+    "health": 4,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit attacks and you do not find an Echo, scrap a health from each adjacent unit.",
+    "flavor_text": "When the stims kick... you just get out of the way, kid. Whatever hole you fall into first, you stay put."
+}

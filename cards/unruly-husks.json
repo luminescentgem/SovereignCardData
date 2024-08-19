@@ -1,0 +1,15 @@
+{
+    "id": "unruly-husks",
+    "name": "Unruly Husks",
+    "faction": "cult-of-apsynthos",
+    "attack": 3,
+    "armor": 0,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Units in front of this one lose 1 health during your upkeep.",
+    "flavor_text": "Minds to mycelia, friends to food."
+}

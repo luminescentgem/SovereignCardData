@@ -1,0 +1,15 @@
+{
+    "id": "rail-cavalry",
+    "name": "Rail Cavalry",
+    "faction": "coriolan-exiles",
+    "attack": 2,
+    "armor": 0,
+    "health": 3,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)\r\nPierce (This unit ignores Armor when in combat.)",
+    "flavor_text": ""
+}

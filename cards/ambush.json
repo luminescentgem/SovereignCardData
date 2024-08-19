@@ -1,0 +1,13 @@
+{
+    "id": "ambush",
+    "name": "Ambush",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Play during an attack. Reverse the order of target lane.",
+    "flavor_text": ""
+}

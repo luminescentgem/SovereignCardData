@@ -1,0 +1,15 @@
+{
+    "id": "iron-oni",
+    "name": "Iron Oni",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 2,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Pierce (This unit ignores Armor when in combat.)\r\nCybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+    "flavor_text": ""
+}

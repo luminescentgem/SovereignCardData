@@ -1,0 +1,15 @@
+{
+    "id": "razorback",
+    "name": "Razorback",
+    "faction": "red-hegemony",
+    "attack": 2,
+    "armor": 1,
+    "health": 5,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)\r\nWhen this unit moves, scrap one health from it.",
+    "flavor_text": "Big engine, no heatsinks."
+}

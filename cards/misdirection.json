@@ -1,0 +1,13 @@
+{
+    "id": "misdirection",
+    "name": "Misdirection",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target player may move any number of units they control to any position in either lane.",
+    "flavor_text": ""
+}

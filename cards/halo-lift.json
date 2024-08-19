@@ -1,0 +1,15 @@
+{
+    "id": "halo-lift",
+    "name": "Halo Lift",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Move target unit you control (may not be used during combat).",
+    "flavor_text": "You pray the lift puts you on the ground rightside up, outside-in - altogether the same you were before you got in the damn thing."
+}

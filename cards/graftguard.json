@@ -1,0 +1,15 @@
+{
+    "id": "graftguard",
+    "name": "Graftguard",
+    "faction": "coriolan-exiles",
+    "attack": 2,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit breaches and you reveal an augment, you may attach it to this unit.\r\nCybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+    "flavor_text": ""
+}

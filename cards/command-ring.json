@@ -1,0 +1,15 @@
+{
+    "id": "command-ring",
+    "name": "Command Ring",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Units in target lane gain +1 Attack for every T here until end of phase.",
+    "flavor_text": ""
+}

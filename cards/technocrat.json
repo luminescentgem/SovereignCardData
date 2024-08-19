@@ -1,0 +1,15 @@
+{
+    "id": "technocrat",
+    "name": "Technocrat",
+    "faction": "coriolan-exiles",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Gain an additional 1 on every card in your Forge during your upkeep.",
+    "flavor_text": "Overly broad, terribly technical, the ultimate fusion of politics and engineering."
+}

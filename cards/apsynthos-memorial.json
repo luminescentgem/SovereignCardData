@@ -1,0 +1,15 @@
+{
+    "id": "apsynthos-memorial",
+    "name": "Apsynthos Memorial",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T\u27a4 When you score an Echo, you may flip a D on target Citadel.",
+    "flavor_text": "Twisted metal juts straight out of the ground like a rotten tooth - they say it\u2019s a bit of the ark, a bit of our home."
+}

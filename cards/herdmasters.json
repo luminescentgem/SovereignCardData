@@ -1,0 +1,15 @@
+{
+    "id": "herdmasters",
+    "name": "Herdmasters",
+    "faction": "cult-of-apsynthos",
+    "attack": 2,
+    "armor": 1,
+    "health": 2,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "Adjacent units gain +1 Attack and +1 Armor.",
+    "flavor_text": "It is unholy. I will not stand, idle and petulant, as our flock is converted one by one into beasts by our own hand!\r\n-Provincar Jian, \u2018Once more unto the breach\u2019"
+}

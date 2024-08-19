@@ -1,0 +1,15 @@
+{
+    "id": "bounty-hunters",
+    "name": "Bounty Hunters",
+    "faction": "red-hegemony",
+    "attack": 3,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit deals lethal combat damage, scrap a D from your Citadel or scrap this unit.",
+    "flavor_text": ""
+}

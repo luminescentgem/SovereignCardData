@@ -1,0 +1,15 @@
+{
+    "id": "cataphract",
+    "name": "Cataphract",
+    "faction": "machina-sapiens",
+    "attack": 2,
+    "armor": 1,
+    "health": 2,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Pierce (This unit ignores Armor when in combat.)",
+    "flavor_text": "Microminiature laser lances arc from its body on contact, shattering steel and a bit of bone."
+}

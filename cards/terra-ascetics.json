@@ -1,0 +1,15 @@
+{
+    "id": "terra-ascetics",
+    "name": "Terra Ascetics",
+    "faction": "neogenesis-church",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Each time you lose an echo you may flip a D in your colony.",
+    "flavor_text": "Material possessions are the shackles of the spirit."
+}

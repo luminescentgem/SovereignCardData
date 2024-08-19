@@ -1,0 +1,15 @@
+{
+    "id": "snatchers",
+    "name": "Snatchers",
+    "faction": "machina-sapiens",
+    "attack": 2,
+    "armor": 1,
+    "health": 2,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "You may remove a D from a target Citadel during your upkeep, and add it to your Citadel.",
+    "flavor_text": "Synthetic psychology is tricky science - investigating a mind that is hellbent on becoming the investigator."
+}

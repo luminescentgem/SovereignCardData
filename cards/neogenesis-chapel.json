@@ -1,0 +1,15 @@
+{
+    "id": "neogenesis-chapel",
+    "name": "Neogenesis Chapel",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Draw a card from your deck. If it is an echo, score it. If not, discard it.",
+    "flavor_text": "Sermons drive the faithful towards great works, and stir suspicion of reformation."
+}

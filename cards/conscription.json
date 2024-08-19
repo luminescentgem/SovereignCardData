@@ -1,0 +1,13 @@
+{
+    "id": "conscription",
+    "name": "Conscription",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target player may flip as many T as they wish on their Citadel. They may use D to restore the health of any number of units.",
+    "flavor_text": ""
+}

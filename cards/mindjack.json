@@ -1,0 +1,13 @@
+{
+    "id": "mindjack",
+    "name": "Mindjack",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Look at target opponent\u2019s hand. Choose a non-Echo card and add it to your hand.",
+    "flavor_text": "He felt his mind disconnect from his body - just a plug coming undone and then darkness."
+}

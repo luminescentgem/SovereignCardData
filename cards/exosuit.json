@@ -1,0 +1,15 @@
+{
+    "id": "exosuit",
+    "name": "Exosuit",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +2 Armor, and is Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+    "flavor_text": ""
+}

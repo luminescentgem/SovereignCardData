@@ -1,0 +1,15 @@
+{
+    "id": "hellcat",
+    "name": "Hellcat",
+    "faction": "red-hegemony",
+    "attack": 3,
+    "armor": 0,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Whenever this unit survives combat, it adds 1 health from the Cr\u00e8che.",
+    "flavor_text": "A scav mech lacks in beauty, but overflows with personality."
+}

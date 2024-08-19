@@ -1,0 +1,15 @@
+{
+    "id": "arena",
+    "name": "Arena",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Reveal the top card of your deck. If it is an Echo, add a health from the Creche to a target unit. Then place the card on the bottom of your deck.",
+    "flavor_text": ""
+}

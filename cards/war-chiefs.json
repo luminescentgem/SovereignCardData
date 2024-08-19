@@ -1,0 +1,15 @@
+{
+    "id": "war-chiefs",
+    "name": "War Chiefs",
+    "faction": "myrmidon-dominion",
+    "attack": 3,
+    "armor": 1,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If you have no T on your Citadel at the beginning of your growth phase, scrap a health from this unit.",
+    "flavor_text": "Hierarchy is everything to a Myrmidon warband, where a moment of weakness in the hymn can make a king into a corpse."
+}

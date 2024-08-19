@@ -1,0 +1,13 @@
+{
+    "id": "repair-and-refit",
+    "name": "Repair and Refit",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Restore health to any number of target units, using citizens from your Citadel.",
+    "flavor_text": ""
+}

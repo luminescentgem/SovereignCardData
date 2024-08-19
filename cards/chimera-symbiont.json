@@ -1,0 +1,15 @@
+{
+    "id": "chimera-symbiont",
+    "name": "Chimera Symbiont",
+    "faction": "utopian-remnant",
+    "attack": 2,
+    "armor": 1,
+    "health": 1,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "Health lost from adjacent units is placed on this card instead of the Creche.",
+    "flavor_text": "Press your nails into your palm. Now release. That feeling of pain fading away? That\u2019s what I pray for."
+}

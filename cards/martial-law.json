@@ -1,0 +1,13 @@
+{
+    "id": "martial-law",
+    "name": "Martial Law",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 0,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Add 1 to target Forge card for every unit you control, then scrap one health from every unit you control.",
+    "flavor_text": "Laboring under tyrants, we longed to take their place."
+}

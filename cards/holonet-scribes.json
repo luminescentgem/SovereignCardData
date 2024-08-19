@@ -1,0 +1,15 @@
+{
+    "id": "holonet-scribes",
+    "name": "Holonet Scribes",
+    "faction": "sovereign-dronestate",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit defends, you may flip a D on your Citadel at the end of combat.\r\nIf this unit breaches an opponent, you may look at an extra card.",
+    "flavor_text": "Forget the pen. A scribe\u2019s moxie is mightier."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "rot-midden",
+    "name": "Rot Midden",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Search your scrap for a non-reflex card and add it to your hand, then discard a card.",
+    "flavor_text": ""
+}

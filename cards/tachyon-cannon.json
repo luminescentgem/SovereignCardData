@@ -1,0 +1,15 @@
+{
+    "id": "tachyon-cannon",
+    "name": "Tachyon Cannon",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "After this unit deals combat damage, return one health from the opposing unit to its owner\u2019s Citadel. If this scraps the unit, return it to its owner\u2019s hand.",
+    "flavor_text": ""
+}

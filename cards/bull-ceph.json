@@ -1,0 +1,15 @@
+{
+    "id": "bull-ceph",
+    "name": "Bull Ceph",
+    "faction": "coriolan-exiles",
+    "attack": 2,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "This unit gains +1 Attack for each unit behind it.",
+    "flavor_text": "Bull Ceph defend their herd, even if the herd is a huddle of terrified humans."
+}

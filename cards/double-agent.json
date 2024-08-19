@@ -1,0 +1,15 @@
+{
+    "id": "double-agent",
+    "name": "Double Agent",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "You retain control of this augment while it on an opponent\u2019s unit. On your turn, you may look at this player\u2019s hand or one card in their forge during your upkeep.",
+    "flavor_text": ""
+}

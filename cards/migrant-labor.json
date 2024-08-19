@@ -1,0 +1,13 @@
+{
+    "id": "migrant-labor",
+    "name": "Migrant Labor",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 0,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "You may work another player\u2019s facility as if it were your own (your citizens will become owned by that player).",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "sporemask",
+    "name": "Sporemask",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit has +1 Armor.",
+    "flavor_text": "Fungus mats convert organic matter into a thick sludge in hours - the masks prevent this conversion within the lungs."
+}

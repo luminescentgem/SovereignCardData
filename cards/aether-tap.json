@@ -1,0 +1,15 @@
+{
+    "id": "aether-tap",
+    "name": "Aether Tap",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Add 2 to a card in a Forge.",
+    "flavor_text": "To drain the planet dry, we only had to break the skin."
+}

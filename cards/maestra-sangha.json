@@ -1,0 +1,15 @@
+{
+    "id": "maestra-sangha",
+    "name": "Maestra Sangha",
+    "faction": "neogenesis-church",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "During combat, other units in this lane gain +1 Attack for each non-human unit your opponent controls.",
+    "flavor_text": "Fanaticism inspires feats of strength where adrenaline fades."
+}

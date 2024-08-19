@@ -1,0 +1,15 @@
+{
+    "id": "mech-foundry",
+    "name": "Mech Foundry",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Restore one health to a target Mech or Antigrav unit from the Creche.",
+    "flavor_text": ""
+}

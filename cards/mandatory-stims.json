@@ -1,0 +1,13 @@
+{
+    "id": "mandatory-stims",
+    "name": "Mandatory Stims",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Move all citizens from a facility to its controller\u2019s Citadel.",
+    "flavor_text": "Do the stims help us work longer? Or better? Should we be grateful we retain the neural capacity to question?"
+}

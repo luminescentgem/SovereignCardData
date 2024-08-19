@@ -1,0 +1,15 @@
+{
+    "id": "goliath-cannon",
+    "name": "Goliath Cannon",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Deal 1 damage to target unit.",
+    "flavor_text": "A railgun is simply a magnet with attitude."
+}

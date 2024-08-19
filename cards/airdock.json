@@ -1,0 +1,15 @@
+{
+    "id": "airdock",
+    "name": "Airdock",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Move target unit you control to any position in any lane. This ability cannot be used during a combat phase.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "sporemask-poachers",
+    "name": "Sporemask Poachers",
+    "faction": "myrmidon-dominion",
+    "attack": 3,
+    "armor": 0,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",
+    "flavor_text": "Poachers only need a few moments in the mist to fill a sac with a month\u2019s salary."
+}

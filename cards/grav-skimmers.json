@@ -1,0 +1,15 @@
+{
+    "id": "grav-skimmers",
+    "name": "Grav Skimmers",
+    "faction": "utopian-remnant",
+    "attack": 2,
+    "armor": 2,
+    "health": 3,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)",
+    "flavor_text": "Our ancestors walked among the stars; we can barely lift our wings."
+}

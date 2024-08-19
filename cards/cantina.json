@@ -1,0 +1,15 @@
+{
+    "id": "cantina",
+    "name": "Cantina",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Target opponent must tell you how many Echoes they have in their hand and Forge combined.",
+    "flavor_text": "A stiff drink and a handful of stims is the path to a burgeoning friendship."
+}

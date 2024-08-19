@@ -1,0 +1,13 @@
+{
+    "id": "refugee-ethics",
+    "name": "Refugee Ethics",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target a faction. Remove all D from their Colony and distribute them evenly amongst all other Faction\u2019s Citadels.\r\nIf there is an uneven number of D, extras return to the owner\u2019s Citadel.",
+    "flavor_text": ""
+}

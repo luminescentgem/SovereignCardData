@@ -1,0 +1,15 @@
+{
+    "id": "gambler's-eye",
+    "name": "Gambler's Eye",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "During your upkeep, you may look at any number of cards in an opponent\u2019s hand, up to this unit\u2019s health. If you find an Echo, score one. If you do not, this unit loses 1 health for each card you saw.",
+    "flavor_text": "Acquisition of great wealth, or furious punishment."
+}

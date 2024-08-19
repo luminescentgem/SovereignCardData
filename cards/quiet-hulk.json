@@ -1,0 +1,15 @@
+{
+    "id": "quiet-hulk",
+    "name": "Quiet Hulk",
+    "faction": "machina-sapiens",
+    "attack": 2,
+    "armor": 2,
+    "health": 3,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "This unit only deals combat damage if it loses at least 1 health.",
+    "flavor_text": "Children are warned when they are very small; not to throw stones at sleeping giants."
+}

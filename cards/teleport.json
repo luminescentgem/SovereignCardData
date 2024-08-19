@@ -1,0 +1,13 @@
+{
+    "id": "teleport",
+    "name": "Teleport",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Move target unit to any position in any lane its owner controls. You cannot use this during a combat phase.",
+    "flavor_text": ""
+}

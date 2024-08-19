@@ -1,0 +1,15 @@
+{
+    "id": "grave-horde",
+    "name": "Grave Horde",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "If a unit is damaged in a battle with your units, you may move any health that would be scrapped to this facility.",
+    "flavor_text": "Nanite clouds erupted from the bodies when disturbed, the final gasp of the soul."
+}

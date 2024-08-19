@@ -1,0 +1,15 @@
+{
+    "id": "duelist",
+    "name": "Duelist",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "If this unit is alone in its lane, it gains +2 Attack.",
+    "flavor_text": "Discipline is the top of the food chain here."
+}

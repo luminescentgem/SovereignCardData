@@ -1,0 +1,15 @@
+{
+    "id": "aegis-shell",
+    "name": "Aegis Shell",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "All units behind this one gain +1 Armor.",
+    "flavor_text": ""
+}

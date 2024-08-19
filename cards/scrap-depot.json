@@ -1,0 +1,15 @@
+{
+    "id": "scrap-depot",
+    "name": "Scrap Depot",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Return the bottom card of your scrap to your hand, then discard a card.",
+    "flavor_text": ""
+}

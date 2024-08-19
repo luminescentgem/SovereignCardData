@@ -1,0 +1,15 @@
+{
+    "id": "synth-fab",
+    "name": "Synth Fab",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Use the Creche to restore 1 health to a target Synth or Mech unit.",
+    "flavor_text": "Hulking masses of wires and swarming nanites \u2014 nests to incubate the unliving."
+}

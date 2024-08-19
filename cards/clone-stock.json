@@ -1,0 +1,15 @@
+{
+    "id": "clone-stock",
+    "name": "Clone Stock",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Add one health to this unit from the Creche.\r\nDuring your upkeep, this unit adds one health from the Cr\u00e8che.",
+    "flavor_text": "If only I had two more like you."
+}

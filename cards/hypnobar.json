@@ -1,0 +1,15 @@
+{
+    "id": "hypnobar",
+    "name": "Hypnobar",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "Flip T after leaving this facility. Any D leaving this facility are scrapped.",
+    "flavor_text": "The hypnostims were created to bring addicts back from the brink - now death is preferable to prohibition."
+}

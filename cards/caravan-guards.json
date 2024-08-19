@@ -1,0 +1,15 @@
+{
+    "id": "caravan-guards",
+    "name": "Caravan Guards",
+    "faction": "coriolan-exiles",
+    "attack": 2,
+    "armor": 1,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Units behind this one gain +1 Armor.",
+    "flavor_text": ""
+}

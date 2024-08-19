@@ -1,0 +1,15 @@
+{
+    "id": "ice-hauler",
+    "name": "Ice Hauler",
+    "faction": "coriolan-exiles",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Gain +1 T on your Citadel during your growth phase.",
+    "flavor_text": "Permafrost is critical to human survival on Apsyntion - big melts must be managed with care."
+}

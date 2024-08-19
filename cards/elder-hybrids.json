@@ -1,0 +1,15 @@
+{
+    "id": "elder-hybrids",
+    "name": "Elder Hybrids",
+    "faction": "cult-of-apsynthos",
+    "attack": 3,
+    "armor": 0,
+    "health": 4,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "Units adjacent to Elder Hybrid must add one health to it during your upkeep.",
+    "flavor_text": "The first tests were crude, and cruel, leaving these creatures in a dream of vengeance."
+}

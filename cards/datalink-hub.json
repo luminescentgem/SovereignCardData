@@ -1,0 +1,15 @@
+{
+    "id": "datalink-hub",
+    "name": "Datalink Hub",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Place a T on this card from the creche for every Cybernetic unit in play.",
+    "flavor_text": "Jill jacks in; to fetch the sin; steal the crown; kings tumble down."
+}

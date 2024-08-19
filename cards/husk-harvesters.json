@@ -1,0 +1,15 @@
+{
+    "id": "husk-harvesters",
+    "name": "Husk Harvesters",
+    "faction": "undercity-brotherhood",
+    "attack": 0,
+    "armor": 1,
+    "health": 4,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Each time you score an Echo you may add 1 to a card in your Forge.",
+    "flavor_text": "Harvesters follow the flame squads into the spore mats, digging through ashes for such a little thing..."
+}

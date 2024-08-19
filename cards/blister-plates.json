@@ -1,0 +1,15 @@
+{
+    "id": "blister-plates",
+    "name": "Blister Plates",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +1 Attack when attacking, +2 Attack when defending.",
+    "flavor_text": ""
+}

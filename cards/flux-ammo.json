@@ -1,0 +1,13 @@
+{
+    "id": "flux-ammo",
+    "name": "Flux Ammo",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Scrap 2 health from target unit.",
+    "flavor_text": "Weaponry on Apsyntion is an arms race between those who break armor, and those who break physics."
+}

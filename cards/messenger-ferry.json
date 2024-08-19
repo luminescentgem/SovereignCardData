@@ -1,0 +1,15 @@
+{
+    "id": "messenger-ferry",
+    "name": "Messenger Ferry",
+    "faction": "neogenesis-church",
+    "attack": 0,
+    "armor": 1,
+    "health": 2,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)\r\nDuring your movement phase, you may give another player control of this unit, as if it were just forged. They must give you an Echo from their hand if possible. Score it.",
+    "flavor_text": ""
+}

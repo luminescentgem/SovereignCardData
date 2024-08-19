@@ -1,0 +1,15 @@
+{
+    "id": "corpse-harvesters",
+    "name": "Corpse Harvesters",
+    "faction": "machina-sapiens",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "If any unit is scrapped, move its last health token to your Citadel.",
+    "flavor_text": "Crechlings tell stories at night of the harvesters taking them away."
+}

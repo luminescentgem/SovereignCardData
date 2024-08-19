@@ -1,0 +1,15 @@
+{
+    "id": "field-medics",
+    "name": "Field Medics",
+    "faction": "coriolan-exiles",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Adjacent units restore one health from the Creche during your growth phase.",
+    "flavor_text": ""
+}

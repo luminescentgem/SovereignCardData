@@ -1,0 +1,15 @@
+{
+    "id": "jetleap-seraphim",
+    "name": "Jetleap Seraphim",
+    "faction": "neogenesis-church",
+    "attack": 2,
+    "armor": 1,
+    "health": 4,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)",
+    "flavor_text": "Shock troops. That\u2019s just what the       church needs.\r\n-Neogenesis detractor"
+}

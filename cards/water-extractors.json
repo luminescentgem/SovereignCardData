@@ -1,0 +1,15 @@
+{
+    "id": "water-extractors",
+    "name": "Water Extractors",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "DDD\u27a4 Add +1 TD to your Citadel during your growth phase.",
+    "flavor_text": "These will be our monuments to the future generations of Apsyntion. Pull the acid from the oceans, and drink our fill."
+}

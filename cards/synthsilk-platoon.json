@@ -1,0 +1,15 @@
+{
+    "id": "synthsilk-platoon",
+    "name": "Synthsilk Platoon",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 1,
+    "health": 4,
+    "cost": 7,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Squad (This unit gets +1 Attack for every health on it.)",
+    "flavor_text": "A thread the width of a human hair can be woven into an army."
+}

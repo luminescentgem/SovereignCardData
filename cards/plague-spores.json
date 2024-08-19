@@ -1,0 +1,13 @@
+{
+    "id": "plague-spores",
+    "name": "Plague Spores",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "All units have 0 Armor.",
+    "flavor_text": "Civvies see the datanet holos coming back from the front, and they say it looks like paradise. They don\u2019t understand that when a \u2018snowflake\u2019 roots in your lungs, you\u2019d tear your own chest open to get it out."
+}

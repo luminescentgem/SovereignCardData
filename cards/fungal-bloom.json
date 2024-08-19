@@ -1,0 +1,13 @@
+{
+    "id": "fungal-bloom",
+    "name": "Fungal Bloom",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Scrap all citizens on target facility.",
+    "flavor_text": ""
+}

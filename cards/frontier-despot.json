@@ -1,0 +1,15 @@
+{
+    "id": "frontier-despot",
+    "name": "Frontier Despot",
+    "faction": "coriolan-exiles",
+    "attack": 1,
+    "armor": 1,
+    "health": 1,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit breaches and you find an Echo, you may look at an additional card. If it is also an Echo, repeat.",
+    "flavor_text": "I\u2019ll take that. And that too."
+}

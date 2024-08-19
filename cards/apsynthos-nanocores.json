@@ -1,0 +1,15 @@
+{
+    "id": "apsynthos-nanocores",
+    "name": "Apsynthos Nanocores",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Flip this Drone, then add a T to this facility from the Creche.",
+    "flavor_text": "\u201cDon\u2019t call us graverobbers. Plunderers. Those who call the wreck a \u2018tomb\u2019 are superstitious tribals, or plain old fools.\u201d"
+}

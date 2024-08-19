@@ -1,0 +1,13 @@
+{
+    "id": "defection",
+    "name": "Defection",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Each faction must move one D from a unit they control to this reflex. When this reflex is scrapped, move the D on it to your Citadel.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "cloning-tanks",
+    "name": "Cloning Tanks",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 6,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T\u27a4 Add one T to your Citadel during your growth phase.\r\nD\u27a4 Add one D to your Citadel during your growth phase.",
+    "flavor_text": ""
+}

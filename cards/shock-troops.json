@@ -1,0 +1,15 @@
+{
+    "id": "shock-troops",
+    "name": "Shock Troops",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 0,
+    "health": 3,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Squad (This unit gets +1 Attack for every health on it.)",
+    "flavor_text": ""
+}

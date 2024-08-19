@@ -1,0 +1,15 @@
+{
+    "id": "recon-guerillas",
+    "name": "Recon Guerillas",
+    "faction": "sovereign-dronestate",
+    "attack": 2,
+    "armor": 0,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Each time this unit deals combat damage, you may flip a citizen on it.\r\nFor every T on this unit, it gains +1 Attack and +1 Armor.",
+    "flavor_text": ""
+}

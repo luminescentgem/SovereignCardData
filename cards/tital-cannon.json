@@ -1,0 +1,15 @@
+{
+    "id": "tital-cannon",
+    "name": "Tital Cannon",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 8,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Deal 1 damage to target unit and each adjacent unit.",
+    "flavor_text": "In the recoil there is a hollow quiet, as the planet holds its breath."
+}

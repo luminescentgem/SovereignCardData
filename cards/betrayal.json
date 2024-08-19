@@ -1,0 +1,13 @@
+{
+    "id": "betrayal",
+    "name": "Betrayal",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target unit deals its Attack damage to an adjacent unit of your choice.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "mantle-bore",
+    "name": "Mantle Bore",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 6,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Add 1 to every card in target Forge.",
+    "flavor_text": "The drops of rain make a hole in the stone, not by violence, but by oft falling.\r\n-Proverbs, Datalinks"
+}

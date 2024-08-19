@@ -1,0 +1,15 @@
+{
+    "id": "planet-plague",
+    "name": "Planet Plague",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Scrap 1 citizen from your Citadel at the end of your growth phase. If this unit deals non-lethal combat damage, attach this augment to the damaged unit.",
+    "flavor_text": ""
+}

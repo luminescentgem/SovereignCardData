@@ -1,0 +1,15 @@
+{
+    "id": "mech-junkies",
+    "name": "Mech Junkies",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 1,
+    "health": 4,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Each adjacent Mech or Antigrav unit gains +1 Attack and +1 Armor.",
+    "flavor_text": "I\u2019m a mechanic first and a therapist second."
+}

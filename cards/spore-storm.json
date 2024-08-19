@@ -1,0 +1,13 @@
+{
+    "id": "spore-storm",
+    "name": "Spore Storm",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Each unit in target lane gains +1 Attack. These units lose 1 health when this reflex is scrapped.",
+    "flavor_text": "The tiny scarlet spores dance in the air, and the mind begins to blossom."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "nautilus",
+    "name": "Nautilus",
+    "faction": "machina-sapiens",
+    "attack": 2,
+    "armor": 1,
+    "health": 1,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Units adjacent to this one gain +1 Armor.",
+    "flavor_text": "Nautilus fields overlap in a most pleasant way, humming and buzzing and shrugging off nasty things."
+}

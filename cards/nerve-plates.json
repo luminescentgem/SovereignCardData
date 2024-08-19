@@ -1,0 +1,15 @@
+{
+    "id": "nerve-plates",
+    "name": "Nerve Plates",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +1 Armor.",
+    "flavor_text": "The armor doesn\u2019t protect the flesh. It is the flesh."
+}

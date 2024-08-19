@@ -1,0 +1,15 @@
+{
+    "id": "black-queen",
+    "name": "Black Queen",
+    "faction": "machina-sapiens",
+    "attack": 2,
+    "armor": 1,
+    "health": 1,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Slavelink (This unit gains +1 Attack for every other unit you control in the lane.)",
+    "flavor_text": "Big brain queen. holdin\u2019 so many bastard\u2019s thoughts all at once, big old brain full of secrets and lies."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "tachyon-sentries",
+    "name": "Tachyon Sentries",
+    "faction": "utopian-remnant",
+    "attack": 2,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "After this unit deals combat damage, return one health from the opposing unit to its owner\u2019s Citadel. If this scraps the unit, return it to its owner\u2019s hand.",
+    "flavor_text": "Time travel was more fun when it was voluntary."
+}

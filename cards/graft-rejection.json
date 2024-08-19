@@ -1,0 +1,13 @@
+{
+    "id": "graft-rejection",
+    "name": "Graft Rejection",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Scrap target Augment.",
+    "flavor_text": "Nanite compatibility is as much an art as a science. Multi-limb replacement failures are just bad luck."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "exterminating-servitors",
+    "name": "Exterminating Servitors",
+    "faction": "machina-sapiens",
+    "attack": 3,
+    "armor": 1,
+    "health": 3,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)\r\nIf this unit breaches a lane, the defending player scraps a citizen from their Citadel.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "reconstruct",
+    "name": "Reconstruct",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit may immediately restore its health from your Citadel and is now a Mech with:\r\n Slow (If this unit takes lethal combat damage, it does not deal damage in return.)\r\nAnd Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+    "flavor_text": ""
+}

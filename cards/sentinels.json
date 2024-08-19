@@ -1,0 +1,15 @@
+{
+    "id": "sentinels",
+    "name": "Sentinels",
+    "faction": "sovereign-dronestate",
+    "attack": 3,
+    "armor": 2,
+    "health": 3,
+    "cost": 6,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Slow (If this unit takes lethal combat damage, it does not deal damage in return.)\r\n",
+    "flavor_text": "Old mechs. Sturdy mechs."
+}

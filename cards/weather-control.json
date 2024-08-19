@@ -1,0 +1,13 @@
+{
+    "id": "weather-control",
+    "name": "Weather Control",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Deal 1 damage to all Airborne units. All units have -1 Armor.",
+    "flavor_text": "To bend the heavens themselves."
+}

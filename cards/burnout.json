@@ -1,0 +1,13 @@
+{
+    "id": "burnout",
+    "name": "Burnout",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "All T on Citadels flip at the end of  forge phase.",
+    "flavor_text": "Stimshock is a danger drilled into every Crecheling."
+}

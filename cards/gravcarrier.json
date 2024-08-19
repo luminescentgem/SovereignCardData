@@ -1,0 +1,15 @@
+{
+    "id": "gravcarrier",
+    "name": "Gravcarrier",
+    "faction": "utopian-remnant",
+    "attack": 1,
+    "armor": 2,
+    "health": 5,
+    "cost": 7,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)\r\nYou may restore this unit from your Citadel during your upkeep. During any player\u2019s upkeep, you may add health from this unit to adjacent units.",
+    "flavor_text": ""
+}

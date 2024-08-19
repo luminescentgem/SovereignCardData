@@ -1,0 +1,15 @@
+{
+    "id": "ruined-arcology",
+    "name": "Ruined Arcology",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Add 1 to all cards in target Forge.",
+    "flavor_text": "Rebuilding Eden in our own image."
+}

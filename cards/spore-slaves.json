@@ -1,0 +1,15 @@
+{
+    "id": "spore-slaves",
+    "name": "Spore Slaves",
+    "faction": "cult-of-apsynthos",
+    "attack": 2,
+    "armor": 0,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "When this unit deals combat damage, you may scrap a health from it to have it deal the same damage to the next enemy unit.",
+    "flavor_text": "Poachers start their careers harvesting the fungal sacs. They end their lives bursting from the inside."
+}

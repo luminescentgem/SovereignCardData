@@ -1,0 +1,15 @@
+{
+    "id": "brassjackets",
+    "name": "Brassjackets",
+    "faction": "red-hegemony",
+    "attack": 2,
+    "armor": 0,
+    "health": 5,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "While this unit is at full health, it has Pierce (This unit ignores Armor when in combat.)",
+    "flavor_text": "Slave synths are disposable, since keeping one in bondage is a risk few would take on."
+}

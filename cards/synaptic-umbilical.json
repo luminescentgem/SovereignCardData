@@ -1,0 +1,15 @@
+{
+    "id": "synaptic-umbilical",
+    "name": "Synaptic Umbilical",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Target unit gains Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+    "flavor_text": "Information is invisible, odorless, textureless. It is the oxygen of the new world."
+}

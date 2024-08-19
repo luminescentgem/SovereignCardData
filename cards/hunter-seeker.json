@@ -1,0 +1,15 @@
+{
+    "id": "hunter-seeker",
+    "name": "Hunter-Seeker",
+    "faction": "machina-sapiens",
+    "attack": 2,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "You may move this unit to any position in the lane at the beginning of any combat phase.",
+    "flavor_text": "It moves like the wind and bites like the frost."
+}

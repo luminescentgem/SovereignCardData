@@ -1,0 +1,13 @@
+{
+    "id": "knit",
+    "name": "Knit",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Restore all health to target unit from the Creche.",
+    "flavor_text": "New life from the old bones."
+}

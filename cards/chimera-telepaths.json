@@ -1,0 +1,15 @@
+{
+    "id": "chimera-telepaths",
+    "name": "Chimera Telepaths",
+    "faction": "utopian-remnant",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "If this unit is in a breach, your opponent reveals their hand or Forge respectively during selection.",
+    "flavor_text": "We can see your secrets."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "nerve-splice",
+    "name": "Nerve Splice",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 0,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Flip X T on target Citadel. Any player attacking you has +1 breach value.",
+    "flavor_text": "A necessary atrocity."
+}

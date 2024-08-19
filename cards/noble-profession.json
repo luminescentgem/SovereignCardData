@@ -1,0 +1,15 @@
+{
+    "id": "noble-profession",
+    "name": "Noble Profession",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "All D who work this facility become T.",
+    "flavor_text": ""
+}

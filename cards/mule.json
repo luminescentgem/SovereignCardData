@@ -1,0 +1,15 @@
+{
+    "id": "mule",
+    "name": "Mule",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "All units in this lane gain +1 Attack.\r\nIf this unit receives damage, you may scrap this augment to reduce that damage by 1.",
+    "flavor_text": "We crossed the steppe with the so-called help of a machine we all learned to hate."
+}

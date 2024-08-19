@@ -1,0 +1,13 @@
+{
+    "id": "defensive-position",
+    "name": "Defensive Position",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target a unit in combat. It gains +1 Armor for each other unit in its lane.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "rut-hollow",
+    "name": "Rut Hollow",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "DD\u27a4 Add a D to your Citadel during your growth phase.",
+    "flavor_text": "They can see the glint of the pleasure dome reflecting like a diamond, a kilometer above the hollow."
+}

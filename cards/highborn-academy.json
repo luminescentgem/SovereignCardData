@@ -1,0 +1,15 @@
+{
+    "id": "highborn-academy",
+    "name": "Highborn Academy",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "You may add idle D to this facility during your upkeep.\r\nT: Flip all D on this facility. You may work Highborn Academy while citizens are on it.",
+    "flavor_text": ""
+}

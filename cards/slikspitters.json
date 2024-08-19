@@ -1,0 +1,15 @@
+{
+    "id": "slikspitters",
+    "name": "Slikspitters",
+    "faction": "cult-of-apsynthos",
+    "attack": 2,
+    "armor": 1,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "If this unit is in combat, the enemy unit is Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+    "flavor_text": ""
+}

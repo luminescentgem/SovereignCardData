@@ -1,0 +1,15 @@
+{
+    "id": "mycandrium",
+    "name": "Mycandrium",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "If a unit you control loses health, you may add it to Mycandrium. Citizens do not leave Mycandrium during your upkeep.\r\n\r\nYou may use tokens from Mycandrium rather than your Citadel when adding Health to units.",
+    "flavor_text": ""
+}

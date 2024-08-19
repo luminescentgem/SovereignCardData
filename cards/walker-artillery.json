@@ -1,0 +1,15 @@
+{
+    "id": "walker-artillery",
+    "name": "Walker Artillery",
+    "faction": "undercity-brotherhood",
+    "attack": 2,
+    "armor": 2,
+    "health": 2,
+    "cost": 6,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "You may target a Citadel or facility during your upkeep. Its controller chooses a citizen there and scraps it.\r\nSplash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+    "flavor_text": ""
+}

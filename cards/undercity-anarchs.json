@@ -1,0 +1,15 @@
+{
+    "id": "undercity-anarchs",
+    "name": "Undercity Anarchs",
+    "faction": "sovereign-dronestate",
+    "attack": 1,
+    "armor": 0,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "You may remove a D from a target Citadel during your upkeep, and add it to this unit.",
+    "flavor_text": "As you tighten your grip, we prosper"
+}

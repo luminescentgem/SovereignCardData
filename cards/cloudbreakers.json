@@ -1,0 +1,15 @@
+{
+    "id": "cloudbreakers",
+    "name": "Cloudbreakers",
+    "faction": "utopian-remnant",
+    "attack": 3,
+    "armor": 1,
+    "health": 4,
+    "cost": 6,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)",
+    "flavor_text": "Air power rules this world - but rule humbly my friends. Remember Icarus.\r\n-Cloudbreaker Initiate Ceremony"
+}

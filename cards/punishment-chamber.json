@@ -1,0 +1,15 @@
+{
+    "id": "punishment-chamber",
+    "name": "Punishment Chamber",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Add 2 to a Forge card.\r\nScrap all citizens on this facility during your upkeep.",
+    "flavor_text": "Fear will keep the rabble in line."
+}

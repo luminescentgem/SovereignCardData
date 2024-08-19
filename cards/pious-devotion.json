@@ -1,0 +1,15 @@
+{
+    "id": "pious-devotion",
+    "name": "Pious Devotion",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "If this unit deals lethal combat damage, place a T on your Citadel.",
+    "flavor_text": "Creche workers respect pious genes, and sometimes a splicer will make an exception for a war hero."
+}

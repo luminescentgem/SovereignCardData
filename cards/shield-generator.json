@@ -1,0 +1,15 @@
+{
+    "id": "shield-generator",
+    "name": "Shield Generator",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Units adjacent to this one gain +1 Armor and are immune to Splash.",
+    "flavor_text": ""
+}

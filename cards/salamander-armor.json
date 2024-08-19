@@ -1,0 +1,15 @@
+{
+    "id": "salamander-armor",
+    "name": "Salamander Armor",
+    "faction": "myrmidon-dominion",
+    "attack": 3,
+    "armor": 0,
+    "health": 2,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Slow (If this unit takes lethal combat damage, it does not deal damage in return.)\r\nThis unit may be forged during a combat phase, before damage has been dealt, adding it to the back of the lane.",
+    "flavor_text": ""
+}

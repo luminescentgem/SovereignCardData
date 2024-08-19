@@ -1,0 +1,15 @@
+{
+    "id": "hacker's-den",
+    "name": "Hacker's Den",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Draw a random card from an opponent\u2019s scrap and add it to your hand.",
+    "flavor_text": "Exiles from the overcity turn into parasites in the network."
+}

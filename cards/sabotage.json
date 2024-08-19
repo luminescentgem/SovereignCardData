@@ -1,0 +1,13 @@
+{
+    "id": "sabotage",
+    "name": "Sabotage",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target a card in any player\u2019s Forge and reveal it. If it is an Echo, it remains in their Forge. If it is not an Echo, scrap that card and return the forge T to their Citadel.",
+    "flavor_text": ""
+}

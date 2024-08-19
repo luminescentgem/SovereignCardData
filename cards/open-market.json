@@ -1,0 +1,15 @@
+{
+    "id": "open-market",
+    "name": "Open Market",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Draw a random card from your scrap, then discard a card.",
+    "flavor_text": ""
+}

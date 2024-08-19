@@ -1,0 +1,15 @@
+{
+    "id": "deva-monks",
+    "name": "Deva Monks",
+    "faction": "neogenesis-church",
+    "attack": 0,
+    "armor": 2,
+    "health": 5,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Each time you score an Echo, you may flip a D on this unit.\r\nThis unit has +1 attack for each T on it.",
+    "flavor_text": "The language of angels can be sharpened."
+}

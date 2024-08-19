@@ -1,0 +1,15 @@
+{
+    "id": "military-academy",
+    "name": "Military Academy",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "You may place a D from your Citadel on this facility during your upkeep.\r\nT: Use D on this facility to restore the health of any units you control. You may use this ability when this facility is not idle.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "powered-exoskeleton",
+    "name": "Powered Exoskeleton",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +1 Attack and +1 Armor.",
+    "flavor_text": "The flesh is weak, but the metal is willing."
+}

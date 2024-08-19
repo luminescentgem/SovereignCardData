@@ -1,0 +1,15 @@
+{
+    "id": "harlequin",
+    "name": "Harlequin",
+    "faction": "myrmidon-dominion",
+    "attack": 2,
+    "armor": 1,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",
+    "flavor_text": "Chromatophores in the skin give the harlequin impeccable camouflage. "
+}

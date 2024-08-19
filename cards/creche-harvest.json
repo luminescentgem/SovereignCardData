@@ -1,0 +1,13 @@
+{
+    "id": "creche-harvest",
+    "name": "Creche Harvest",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Place 2 D on this card from the Creche.",
+    "flavor_text": "Little bodies in the Drone pens, faces pressed tight against the glass."
+}

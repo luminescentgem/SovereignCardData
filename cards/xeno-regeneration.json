@@ -1,0 +1,13 @@
+{
+    "id": "xeno-regeneration",
+    "name": "Xeno Regeneration",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "You may immediately add health to any number of units, using citizens from your Citadel.",
+    "flavor_text": "He lay into the warm embrace of the spore marsh and closed his eyes. He breathed deep and heard the song of the world."
+}

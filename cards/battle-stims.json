@@ -1,0 +1,15 @@
+{
+    "id": "battle-stims",
+    "name": "Battle Stims",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains Resilient (Restore one health from the Creche during your growth phase.)",
+    "flavor_text": "She pressed the stimkit to her vein, and felt her heart beating like an over taut drum \u2014 a moment like falling in love."
+}

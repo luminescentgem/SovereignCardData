@@ -1,0 +1,13 @@
+{
+    "id": "desertion",
+    "name": "Desertion",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Remove 1 health from target unit and place it on its controller\u2019s Citadel.",
+    "flavor_text": ""
+}

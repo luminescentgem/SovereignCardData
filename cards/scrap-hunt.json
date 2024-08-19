@@ -1,0 +1,13 @@
+{
+    "id": "scrap-hunt",
+    "name": "Scrap Hunt",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Take target card from your scrap and add it to your hand.",
+    "flavor_text": ""
+}

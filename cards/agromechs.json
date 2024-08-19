@@ -1,0 +1,15 @@
+{
+    "id": "agromechs",
+    "name": "Agromechs",
+    "faction": "undercity-brotherhood",
+    "attack": 0,
+    "armor": 1,
+    "health": 4,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Gain +1 T during your growth phase for every health on this unit.",
+    "flavor_text": ""
+}

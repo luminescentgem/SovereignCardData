@@ -1,0 +1,15 @@
+{
+    "id": "worker-strike",
+    "name": "Worker Strike",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "Any citizens who work this facility cannot be removed during your upkeep.\r\nYou may discard one health from any unit you control to scrap all citizens here and remove this augment.",
+    "flavor_text": ""
+}

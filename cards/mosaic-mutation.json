@@ -1,0 +1,13 @@
+{
+    "id": "mosaic-mutation",
+    "name": "Mosaic Mutation",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Scrap target unit and replace it with a unit from your hand. Health from the scrapped unit is added to the new one.",
+    "flavor_text": "The genetic change is almost imperceptible - we are two monsters from the same tree.\r\n-Brood Experimentation Log"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "chimera-guild",
+    "name": "Chimera Guild",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Each unit in target lane may restore one health from your Citadel.",
+    "flavor_text": "Our race has existed too long - resisting entropy, forgetting our humanity. Now chimera are bred to feel for us."
+}

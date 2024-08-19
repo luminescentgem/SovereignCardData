@@ -1,0 +1,15 @@
+{
+    "id": "grendels",
+    "name": "Grendels",
+    "faction": "cult-of-apsynthos",
+    "attack": 3,
+    "armor": 2,
+    "health": 2,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "",
+    "flavor_text": "The grendel was thought to be the largest living thing on Apsyntion during the first expeditions - before the behemoths crushed the notion."
+}

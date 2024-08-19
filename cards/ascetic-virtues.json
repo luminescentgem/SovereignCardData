@@ -1,0 +1,13 @@
+{
+    "id": "ascetic-virtues",
+    "name": "Ascetic Virtues",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Discard a card: Flip a D on your Citadel. Anyone may use this ability so long as this Reflex is in play.",
+    "flavor_text": "Worldly distractions are psychic anchors. -Zen Gospel Scripture"
+}

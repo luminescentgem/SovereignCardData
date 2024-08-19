@@ -1,0 +1,13 @@
+{
+    "id": "orbital-strike",
+    "name": "Orbital Strike",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Scrap target unit.",
+    "flavor_text": "It\u2019s the only way to be sure."
+}

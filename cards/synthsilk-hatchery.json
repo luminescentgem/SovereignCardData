@@ -1,0 +1,15 @@
+{
+    "id": "synthsilk-hatchery",
+    "name": "Synthsilk Hatchery",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Target unit gains +1 Armor until end of phase.",
+    "flavor_text": "Such tiny creatures the basis for mass mobilization - revolution birthed from a raveling cocoon."
+}

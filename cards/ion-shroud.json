@@ -1,0 +1,15 @@
+{
+    "id": "ion-shroud",
+    "name": "Ion Shroud",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit deals +2 damage and gains +1 Armor when resolving combat.",
+    "flavor_text": "A tiny hiss audible at the moment of contact, and the synth contorts into a tight, shuddering ball, like a dying insect."
+}

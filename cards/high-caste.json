@@ -1,0 +1,15 @@
+{
+    "id": "high-caste",
+    "name": "High Caste",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +1 Attack against units using D for health.",
+    "flavor_text": ""
+}

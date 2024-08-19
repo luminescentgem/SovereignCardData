@@ -1,0 +1,15 @@
+{
+    "id": "splicing-medics",
+    "name": "Splicing Medics",
+    "faction": "sovereign-dronestate",
+    "attack": 1,
+    "armor": 0,
+    "health": 4,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Resilient (Restore one health from the Creche during your growth phase.)\r\nYou may add health from this unit to adjacent units during your upkeep.",
+    "flavor_text": ""
+}

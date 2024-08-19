@@ -1,0 +1,15 @@
+{
+    "id": "skimsquad",
+    "name": "Skimsquad",
+    "faction": "sovereign-dronestate",
+    "attack": 0,
+    "armor": 1,
+    "health": 3,
+    "cost": 6,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)\r\nSquad (This unit gets +1 Attack for every health on it.)",
+    "flavor_text": ""
+}

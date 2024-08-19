@@ -1,0 +1,13 @@
+{
+    "id": "symmetric-supplication",
+    "name": "Symmetric Supplication",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Flip the citizens used for this reflex.",
+    "flavor_text": "To master the self, you must first master your fear of the other."
+}

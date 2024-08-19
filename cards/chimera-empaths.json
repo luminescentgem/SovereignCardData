@@ -1,0 +1,15 @@
+{
+    "id": "chimera-empaths",
+    "name": "Chimera Empaths",
+    "faction": "utopian-remnant",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "Units adjacent to this one restore one health from the Creche during your growth phase.",
+    "flavor_text": "<We are the voice of your pain>\r\n-Promethea probe logs"
+}

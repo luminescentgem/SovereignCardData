@@ -1,0 +1,392 @@
+id,name,faction,raw_faction,attack,armor,health,raw_health,cost,raw_type,type,sub_types,card_effect,flavor_text
+absolution-sphere,Absolution Sphere,neogenesis-church,Neogenesis Church,,,,,4,Colony-Facility,colony,facility,D: Flip all D who work Absolution Sphere.,"The first thing to enter the sphere was a young girl, gov-drafted, told nothing. Six days later it spat her out, babbling like a newborn."
+acid-baptists,Acid Baptists,neogenesis-church,Neogenesis Church,1,1,5,ddddd,3,Unit-Human,unit,human,"During your growth phase, you may flip a D in your colony.","Bathed in a river of memetic nanites, they bring the flock to pasture."
+ascetic-virtues,Ascetic Virtues,neogenesis-church,Neogenesis Church,,,,,1,Reflex,reflex,,Discard a card: Flip a D on your Citadel. Anyone may use this ability so long as this Reflex is in play.,Worldly distractions are psychic anchors. -Zen Gospel Scripture
+clinical-immortality,Clinical Immortality,neogenesis-church,Neogenesis Church,,,,,4,Augment-Unit,augment,unit,Choose a unit in a scrap and place it in the back of target lane. Attach this card. Add one health from your Citadel. This unit gains Resilient (Restore one health from the Creche during your growth phase.).,Humanity is shed as easily as an old skin.
+crechling-prophet,Crechling Prophet,neogenesis-church,Neogenesis Church,0,1,1,t,3,Colony-Facility,colony,facility,"Other units in this lane gain +1 Attack. If this unit is scrapped, you may immediately restore any number of units with citizens from your Citadel.",Her scars are fire in the hearts of the faithful.
+desertion,Desertion,neogenesis-church,Neogenesis Church,,,,,2,Reflex,reflex,,Remove 1 health from target unit and place it on its controller’s Citadel.,
+deva-monks,Deva Monks,neogenesis-church,Neogenesis Church,0,2,5,ddddd,4,Unit-Human,unit,human,"Each time you score an Echo, you may flip a D on this unit.
+This unit has +1 attack for each T on it.",The language of angels can be sharpened.
+gravelinks,Gravelinks,neogenesis-church,Neogenesis Church,,,,,2,Augment-Unit,augment,unit,This unit gains +1 Attack for every unit in your scrap.,Memory augs provide immortality in the barracks - long dead soldiers train the living
+halo-lift,Halo Lift,neogenesis-church,Neogenesis Church,,,,,3,Colony-Facility,colony,facility,D: Move target unit you control (may not be used during combat).,"You pray the lift puts you on the ground rightside up, outside-in - altogether the same you were before you got in the damn thing."
+holy-day,Holy Day,neogenesis-church,Neogenesis Church,,,,,3,Reflex,reflex,,"Each faction must add a T to Holy Day during their Growth phase. Return a T to their Citadel if they skip their Combat phase. When Holy Day is scrapped, you must skip your combat phase unless you scrap all T on it. ",
+house-of-meditation,House of Meditation,neogenesis-church,Neogenesis Church,,,,,3,Colony-Facility,colony,facility,D: Draw a card (you may exceed 8 cards).,"Mind and matter are one and the same here - we can coax Apsyntion if we listen.
+-Chimera Handler Lenaius"
+hymn-of-knitting,Hymn of Knitting,neogenesis-church,Neogenesis Church,,,,,2,Augment-Unit,augment,unit,Units adjacent to this one restore one health from the Creche during your   growth phase.,"Zen Gospel clerics form the backbone of nanite-infused troops, their song rippling over the battlefield like a soothing mist."
+inquisitors,Inquisitors,neogenesis-church,Neogenesis Church,2,1,3,ttt,3,Unit-Human,unit,human,This unit’s breach value is doubled.,"Brutal? Yes. Necessary? Absolutely. We will not be slaves to artificial masters.
+-Order Priest Gruman"
+jetleap-seraphim,Jetleap Seraphim,neogenesis-church,Neogenesis Church,2,1,4,dddd,3,Unit-Human,unit,human,Airborne (Each airborne unit may move during your move phase),"Shock troops. That’s just what the       church needs.
+-Neogenesis detractor"
+library-of-the-ark,Library of the Ark,neogenesis-church,Neogenesis Church,,,,,3,Colony-Facility,colony,facility,"T: Choose a non-reflex card in your scrap and add it to your hand, then discard a card.","Waste not, want not."
+maestra-sangha,Maestra Sangha,neogenesis-church,Neogenesis Church,1,1,3,ttt,4,Unit-Human,unit,human,"During combat, other units in this lane gain +1 Attack for each non-human unit your opponent controls.",Fanaticism inspires feats of strength where adrenaline fades.
+messenger-ferry,Messenger Ferry,neogenesis-church,Neogenesis Church,0,1,2,dd,2,Unit-Antigrav,unit,antigrav,"Airborne (Each airborne unit may move during your move phase)
+During your movement phase, you may give another player control of this unit, as if it were just forged. They must give you an Echo from their hand if possible. Score it.",
+miraculous-escape,Miraculous Escape,neogenesis-church,Neogenesis Church,,,,,1,Reflex,reflex,,"Target a unit in a battle that would be scrapped. At the end of the battle phase, return it to the back of its lane with     one health.",
+neogenesis-chapel,Neogenesis Chapel,neogenesis-church,Neogenesis Church,,,,,4,Colony-Facility,colony,facility,"T: Draw a card from your deck. If it is an echo, score it. If not, discard it.","Sermons drive the faithful towards great works, and stir suspicion of reformation."
+pious-devotion,Pious Devotion,neogenesis-church,Neogenesis Church,,,,,3,Augment-Unit,augment,unit,"If this unit deals lethal combat damage, place a T on your Citadel.","Creche workers respect pious genes, and sometimes a splicer will make an exception for a war hero."
+relic-seekers,Relic Seekers,neogenesis-church,Neogenesis Church,1,1,3,ddd,2,Unit- Human,unit, human,"During your draw phase, you may put one non-echo card from your hand at the bottom of your deck before drawing.",
+seraphim-choir,Seraphim Choir,neogenesis-church,Neogenesis Church,1,0,3,ddd,6,Unit-human,unit,human,"Squad (This unit gets +1 Attack for every health on it.)
+Airborne (Each airborne unit may move during your move phase)",Angels of an entirely new order.
+symmetric-supplication,Symmetric Supplication,neogenesis-church,Neogenesis Church,,,,,2,Reflex,reflex,,Flip the citizens used for this reflex.,"To master the self, you must first master your fear of the other."
+terra-ascetics,Terra Ascetics,neogenesis-church,Neogenesis Church,1,0,5,ddddd,2,Unit-human,unit,human,Each time you lose an echo you may flip a D in your colony.,Material possessions are the shackles of the spirit.
+terra-colossus,Terra Colossus,neogenesis-church,Neogenesis Church,,,,,3,Colony-Facility,colony,facility,"When you score an Echo, you may place a D here from the Creche.
+T: Add any amount of health to target units using D from this facility (you may do this at any time, so long as there are no T here).",
+theocracy,Theocracy,neogenesis-church,Neogenesis Church,,,,,2,augment-facility,augment,facility,You may move an additional citizen from this facility to your Citadel during your upkeep.,"A man driven by faith will work until his hands bleed, and his legs fail him."
+trench-judges,Trench Judges,neogenesis-church,Neogenesis Church,2,1,3,ttt,3,Unit-human,unit,human,Slavelink (This unit gains +1 Attack for every other unit you control in the lane.),Thousands of years of superstition only to find out we were right all along.
+webweave-cherubs,Webweave Cherubs,neogenesis-church,Neogenesis Church,2,1,4,dddd,3,Unit-human,unit,human,"If this unit is in an attack, all units in the enemy lane are Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+white-bishops,White bishops,neogenesis-church,Neogenesis Church,1,2,3,ttt,3,Unit-human,unit,human,Units adjacent to this one gain +1 Armor.,"We hear you. Your song is our own. Let us partake in choir.
+-Hymns, 24:36"
+zealotry,Zealotry,neogenesis-church,Neogenesis Church,,,,,2,Reflex,reflex,,"Your Human units gain +1 Attack.
+You may scrap any number of D from your Citadel to deal the same amount of damage to target non-human unit.",
+acid-husks,Acid Husks,cult-of-apsynthos,Cult of Apsynthos,3,0,5,ddddd,4,Unit-xeno,unit,xeno,"You may scrap a health token from this unit to have it gain Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.) until end of phase.",
+apsyntion-preserve,Apsyntion Preserve,cult-of-apsynthos,Cult of Apsynthos,,,,,4,colony-facility,colony,facility,T: Units in target lane gain +1 Armor until the end of phase.,"If it were up to me, I’d take the flamers to that swamp. But it’s not up to me.
+-General Takei, Dominion Holonet"
+blister-plates,Blister Plates,cult-of-apsynthos,Cult of Apsynthos,,,,,2,augment-unit,augment,unit,"This unit gains +1 Attack when attacking, +2 Attack when defending.",
+boreworm-larvae,Boreworm Larvae,cult-of-apsynthos,Cult of Apsynthos,3,1,1,d,4,Unit-xeno,unit,xeno,"Forge as an augment on target unit. During that unit’s upkeep, add 1 health from it to Boreworm Larvae.
+If the attached unit is scrapped, Boreworm Larvae moves to the back of any lane its owner controls.",
+carrier,Carrier,cult-of-apsynthos,Cult of Apsynthos,,,,,4,augment-unit,augment,unit,This unit and adjacent units have a maximum Attack value of 1. They gain Pierce (This unit ignores Armor when in combat.),
+chimera-guild,Chimera Guild,cult-of-apsynthos,Cult of Apsynthos,,,,,4,colony-facility,colony,facility,D: Each unit in target lane may restore one health from your Citadel.,"Our race has existed too long - resisting entropy, forgetting our humanity. Now chimera are bred to feel for us."
+elder-hybrids,Elder Hybrids,cult-of-apsynthos,Cult of Apsynthos,3,0,4,dddd,3,unit-Chimera,unit,chimera,Units adjacent to Elder Hybrid must add one health to it during your upkeep.,"The first tests were crude, and cruel, leaving these creatures in a dream of vengeance."
+endospexi,Endospexi,cult-of-apsynthos,Cult of Apsynthos,1,0,5,ddddd,2,Unit-Chimera,unit,chimera,You may scrap a health from this unit to look at an opponent’s hand or target card in their Forge.,"The endospexi are a relic of tribal colonies, sacrificing to the Lilin out of brutal necessity."
+fungal-bloom,Fungal Bloom,cult-of-apsynthos,Cult of Apsynthos,,,,,3,reflex,reflex,,Scrap all citizens on target facility.,
+gene-speakers,Gene Speakers,cult-of-apsynthos,Cult of Apsynthos,1,0,4,dddd,3,Unit-Chimera,unit,chimera,"Pierce (This unit ignores Armor when in combat.)
+Adjacent units restore one health from the Creche during your growth phase.","A whisper in the ear, then through the heart."
+grendels,Grendels,cult-of-apsynthos,Cult of Apsynthos,3,2,2,dd,5,Unit-xeno,unit,xeno,,The grendel was thought to be the largest living thing on Apsyntion during the first expeditions - before the behemoths crushed the notion.
+haruspexi,Haruspexi,cult-of-apsynthos,Cult of Apsynthos,2,0,4,dddd,3,Unit-Chimera,unit,chimera,Scrap 1 health from an adjacent unit: Look at an opponent’s entire hand or one card in their Forge.,"Once lost traditions rooted in superstition, divination is now free to evolve like any other technology."
+herdmasters,Herdmasters,cult-of-apsynthos,Cult of Apsynthos,2,1,2,dd,3,Unit-Chimera,unit,chimera,Adjacent units gain +1 Attack and +1 Armor.,"It is unholy. I will not stand, idle and petulant, as our flock is converted one by one into beasts by our own hand!
+-Provincar Jian, ‘Once more unto the breach’"
+hyphal-warning,Hyphal Warning,cult-of-apsynthos,Cult of Apsynthos,,,,,3,augment-unit,augment,unit,This unit and all units in front of it have +1 Armor.,
+mosaic-mutation,Mosaic Mutation,cult-of-apsynthos,Cult of Apsynthos,,,,,2,reflex,reflex,,Scrap target unit and replace it with a unit from your hand. Health from the scrapped unit is added to the new one.,"The genetic change is almost imperceptible - we are two monsters from the same tree.
+-Brood Experimentation Log"
+mycandrium,Mycandrium,cult-of-apsynthos,Cult of Apsynthos,,,,,3,colony-facility,colony,facility,"If a unit you control loses health, you may add it to Mycandrium. Citizens do not leave Mycandrium during your upkeep.
+
+You may use tokens from Mycandrium rather than your Citadel when adding Health to units.",
+mycologists,Mycologists,cult-of-apsynthos,Cult of Apsynthos,1,0,3,ddd,2,unit-human,unit,human,All units in this lane gain Resilient (Restore one health from the Creche during your growth phase.),"At Apsynthos Crater, the spore mats have so much neurological activity you can see electrical arcs at twilight. These will be our children’s diplomats."
+orthogenesis,Orthogenesis,cult-of-apsynthos,Cult of Apsynthos,,,,,2,reflex,reflex,,"Choose a unit in your scrap and add it to a lane as if it were just forged. Attach this card.
+Scrap this unit during your upkeep.","<Die. Sleep. Always within the embrace. Wake, human.>
+-Promethea Datalog"
+plague-spores,Plague Spores,cult-of-apsynthos,Cult of Apsynthos,,,,,2,reflex,reflex,,All units have 0 Armor.,"Civvies see the datanet holos coming back from the front, and they say it looks like paradise. They don’t understand that when a ‘snowflake’ roots in your lungs, you’d tear your own chest open to get it out."
+planet-plague,Planet Plague,cult-of-apsynthos,Cult of Apsynthos,,,,,2,augment-unit,augment,unit,"Scrap 1 citizen from your Citadel at the end of your growth phase. If this unit deals non-lethal combat damage, attach this augment to the damaged unit.",
+rot-midden,Rot Midden,cult-of-apsynthos,Cult of Apsynthos,,,,,4,colony-facility,colony,facility,"D: Search your scrap for a non-reflex card and add it to your hand, then discard a card.",
+slikspitters,Slikspitters,cult-of-apsynthos,Cult of Apsynthos,2,1,4,dddd,4,unit-xeno,unit,xeno,"If this unit is in combat, the enemy unit is Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+spore-blossoms,Spore Blossoms,cult-of-apsynthos,Cult of Apsynthos,,,,,2,augment-unit,augment,unit,"This unit gains Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)","Spores take root in battlefield casualties, turning bodies into blooms."
+spore-mats,Spore Mats,cult-of-apsynthos,Cult of Apsynthos,,,,,4,colony-facility,colony,facility,D: Add a T to this facility from the Creche.,Mutation rates are within acceptable limits.
+spore-slaves,Spore Slaves,cult-of-apsynthos,Cult of Apsynthos,2,0,3,ddd,2,unit-human,unit,human,"When this unit deals combat damage, you may scrap a health from it to have it deal the same damage to the next enemy unit.",Poachers start their careers harvesting the fungal sacs. They end their lives bursting from the inside.
+spore-storm,Spore Storm,cult-of-apsynthos,Cult of Apsynthos,,,,,2,reflex,reflex,,Each unit in target lane gains +1 Attack. These units lose 1 health when this reflex is scrapped.,"The tiny scarlet spores dance in the air, and the mind begins to blossom."
+stalk-tenders,Stalk Tenders,cult-of-apsynthos,Cult of Apsynthos,1,1,3,ddd,2,unit-xeno,unit,xeno,Add +1 D to your Citadel during your growth phase.,"Certainly diligent little things — are they the caretakers or the cattle?
+ Ranna Myren, Promethea Probe Team"
+unruly-husks,Unruly Husks,cult-of-apsynthos,Cult of Apsynthos,3,0,5,ddddd,3,unit-xeno,unit,xeno,Units in front of this one lose 1 health during your upkeep.,"Minds to mycelia, friends to food."
+xeno-regeneration,Xeno Regeneration,cult-of-apsynthos,Cult of Apsynthos,,,,,1,reflex,reflex,,"You may immediately add health to any number of units, using citizens from your Citadel.",He lay into the warm embrace of the spore marsh and closed his eyes. He breathed deep and heard the song of the world.
+xononeural-arcology,Xononeural Arcology,cult-of-apsynthos,Cult of Apsynthos,,,,,5,colony-facility,colony,facility,T: Gain T on this card for every unit you control.,An exponential shift in the neural net will accompany the fervor. We will finally be natives of Apsyntion.
+apsynthos-cryopod,Apsynthos Cryopod,sovereign-dronestate,Dronestate,,,,,4,colony-facility,colony,facility,T➤ Add DD to your Citadel during your growth phase.,"Rare finds, these relics from the ark. Do we trust the sleepers we find inside?"
+apsynthos-memorial,Apsynthos Memorial,sovereign-dronestate,Dronestate,,,,,4,colony-facility,colony,facility,"T➤ When you score an Echo, you may flip a D on target Citadel.","Twisted metal juts straight out of the ground like a rotten tooth - they say it’s a bit of the ark, a bit of our home."
+calliope,Calliope,sovereign-dronestate,Dronestate,2,1,4,dddd,4,unit-antigrav,unit,antigrav,"Slow (If this unit takes lethal combat damage, it does not deal damage in return.)
+Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+cantina,Cantina,sovereign-dronestate,Dronestate,,,,,3,colony-facility,colony,facility,D: Target opponent must tell you how many Echoes they have in their hand and Forge combined.,A stiff drink and a handful of stims is the path to a burgeoning friendship.
+defection,Defection,sovereign-dronestate,Dronestate,,,,,3,reflex,reflex,,"Each faction must move one D from a unit they control to this reflex. When this reflex is scrapped, move the D on it to your Citadel.",
+desperate-sacrifice,Desperate Sacrifice,sovereign-dronestate,Dronestate,,,,,1,reflex,reflex,,"Scrap a unit you control. Scrap health tokens equal to its Armor, divided among any number of units in one lane.",
+detonation-packs,Detonation Packs,sovereign-dronestate,Dronestate,,,,,2,augment-unit,augment,unit,"When this unit resolves combat damage, it may add its Armor to its Attack value. If you do this, scrap one health.",
+double-agent,Double Agent,sovereign-dronestate,Dronestate,,,,,2,augment-unit,augment,unit,"You retain control of this augment while it on an opponent’s unit. On your turn, you may look at this player’s hand or one card in their forge during your upkeep.",
+drone-insurgents,Drone Insurgents,sovereign-dronestate,Dronestate,1,0,5,ddddd,3,unit-human,unit,human,"If this unit breaches a Faction, add the number of D on their Citadel to the breach value (up to the health of this unit).",
+drone-riots,Drone Riots,sovereign-dronestate,Dronestate,,,,,2,reflex,reflex,,Target a facility. That player may choose to scrap the facility (scrapping all D) or scrap all T in their colony (minimum 1).,
+dustmen,Dustmen,sovereign-dronestate,Dronestate,2,0,5,ddddd,3,unit-human,unit,human,"If this unit breaches a hand and you do not find an echo, you may add one of the revealed cards to your hand rather than discarding it.",
+hive-radicals,Hive Radicals,sovereign-dronestate,Dronestate,1,0,1,d,3,unit-human,unit,human,"If this unit breaches a faction, you may take a D from the defending player’s Citadel and add it to this unit.
+Squad (This unit gets +1 Attack for every health on it.)",
+holonet-scribes,Holonet Scribes,sovereign-dronestate,Dronestate,1,1,3,ddd,2,unit-human,unit,human,"If this unit defends, you may flip a D on your Citadel at the end of combat.
+If this unit breaches an opponent, you may look at an extra card.",Forget the pen. A scribe’s moxie is mightier.
+infoleak,Infoleak,sovereign-dronestate,Dronestate,,,,,2,reflex,reflex,,All Factions play with their hands revealed. (Cards are still drawn randomly during a breach).,"“Tell your friend a lie. If he keeps it secret, then tell him the truth.”"
+nano-plantations,Nano Plantations,sovereign-dronestate,Dronestate,,,,,4,colony-facility,colony,facility,D: Add 1 D to your Citadel from the Creche.,"This is the line between heresy and necessity.
+-Inquisitor Marcus"
+nerve-plates,Nerve Plates,sovereign-dronestate,Dronestate,,,,,2,augment-unit,augment,unit,This unit gains +1 Armor.,The armor doesn’t protect the flesh. It is the flesh.
+plasma-torch,Plasma Torch,sovereign-dronestate,Dronestate,,,,,3,augment-unit,augment,unit,This unit gains Pierce (This unit ignores Armor when in combat.),
+rail-sniper,Rail Sniper,sovereign-dronestate,Dronestate,1,1,1,d,4,unit-human,unit,human,"Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)
+Rail Sniper may scrap one health from a target unit at the beginning of your combat phase.",
+recon-guerillas,Recon Guerillas,sovereign-dronestate,Dronestate,2,0,4,dddd,4,unit-human,unit,human,"Each time this unit deals combat damage, you may flip a citizen on it.
+For every T on this unit, it gains +1 Attack and +1 Armor.",
+refugee-ethics,Refugee Ethics,sovereign-dronestate,Dronestate,,,,,3,reflex,reflex,,"Target a faction. Remove all D from their Colony and distribute them evenly amongst all other Faction’s Citadels.
+If there is an uneven number of D, extras return to the owner’s Citadel.",
+sabotage,Sabotage,sovereign-dronestate,Dronestate,,,,,3,reflex,reflex,,"Target a card in any player’s Forge and reveal it. If it is an Echo, it remains in their Forge. If it is not an Echo, scrap that card and return the forge T to their Citadel.",
+scrap-depot,Scrap Depot,sovereign-dronestate,Dronestate,,,,,3,colony-facility,colony,facility,"D: Return the bottom card of your scrap to your hand, then discard a card.",
+sentinels,Sentinels,sovereign-dronestate,Dronestate,3,2,3,ddd,6,unit-mech,unit,mech,"Slow (If this unit takes lethal combat damage, it does not deal damage in return.)
+",Old mechs. Sturdy mechs.
+skimsquad,Skimsquad,sovereign-dronestate,Dronestate,0,1,3,ddd,6,unit-antigrav,unit,antigrav,"Airborne (Each airborne unit may move during your move phase)
+Squad (This unit gets +1 Attack for every health on it.)",
+splicing-medics,Splicing Medics,sovereign-dronestate,Dronestate,1,0,4,dddd,2,unit-human,unit,human,"Resilient (Restore one health from the Creche during your growth phase.)
+You may add health from this unit to adjacent units during your upkeep.",
+stitch-tanks,Stitch Tanks,sovereign-dronestate,Dronestate,,,,,4,colony-facility,colony,facility,T: Target unit adds 1 health from the Creche.,
+undercity-anarchs,Undercity Anarchs,sovereign-dronestate,Dronestate,1,0,3,ddd,2,unit-human,unit,human,"You may remove a D from a target Citadel during your upkeep, and add it to this unit.","As you tighten your grip, we prosper"
+watchdogs,Watchdogs,sovereign-dronestate,Dronestate,3,1,3,ddd,5,unit-mech,unit,mech,"If this unit is at the front of the lane, you may rearrange this lane freely before battle.",
+webweave-spies,Webweave Spies,sovereign-dronestate,Dronestate,2,1,2,dd,3,unit-human,unit,human,"Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",I don’t need to be a chimera to know what you’re hiding.
+worker-strike,Worker Strike,sovereign-dronestate,Dronestate,,,,,2,augment-facility,augment,facility,"Any citizens who work this facility cannot be removed during your upkeep.
+You may discard one health from any unit you control to scrap all citizens here and remove this augment.",
+bull-ceph,Bull Ceph,coriolan-exiles,Coriolan Exiles,2,1,3,ddd,4,unit-xeno,unit,xeno,This unit gains +1 Attack for each unit behind it.,"Bull Ceph defend their herd, even if the herd is a huddle of terrified humans."
+caravan-guards,Caravan Guards,coriolan-exiles,Coriolan Exiles,2,1,4,dddd,4,unit-xeno,unit,xeno,Units behind this one gain +1 Armor.,
+duchess-of-ash,Duchess of Ash,coriolan-exiles,Coriolan Exiles,2,1,1,t,4,unit-human,unit,human,Units in this lane gain +1 to their breach value.,A melted throne makes fine bullets.
+duelist,Duelist,coriolan-exiles,Coriolan Exiles,,,,,2,augment-unit,augment,unit,"If this unit is alone in its lane, it gains +2 Attack.",Discipline is the top of the food chain here.
+field-medics,Field Medics,coriolan-exiles,Coriolan Exiles,1,1,3,ddd,2,unit-human,unit,human,Adjacent units restore one health from the Creche during your growth phase.,
+flagbearers,Flagbearers,coriolan-exiles,Coriolan Exiles,1,1,3,ddd,3,unit-human,unit,human,Adjacent units gain +1 Attack.,"When Corioli burned, the city itself became a martyr."
+frontier-despot,Frontier Despot,coriolan-exiles,Coriolan Exiles,1,1,1,t,2,unit-human,unit,human,"If this unit breaches and you find an Echo, you may look at an additional card. If it is also an Echo, repeat.",I’ll take that. And that too.
+gardens-of-kadesh,Gardens of Kadesh,coriolan-exiles,Coriolan Exiles,,,,,4,colony-facility,colony,facility,You may place one W/U here from the Creche each time you score an Echo.,"Are these trees extinct if they can exist only within the shields? Could the same be said of our species?
+-Remnant Sha Teng"
+glacier-melt,Glacier Melt,coriolan-exiles,Coriolan Exiles,,,,,2,reflex,reflex,,Gain a T on your Citadel. Any faction may scrap a facility to gain a T on their Citadel.,Water has been in contention on Apsyntion since our arrival. Today we take the first step to remedy its absence.
+graftguard,Graftguard,coriolan-exiles,Coriolan Exiles,2,1,3,ddd,4,unit-human,unit,human,"If this unit breaches and you reveal an augment, you may attach it to this unit.
+Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+high-caste,High Caste,coriolan-exiles,Coriolan Exiles,,,,,2,augment-unit,augment,unit,This unit gains +1 Attack against units using D for health.,
+highborn-academy,Highborn Academy,coriolan-exiles,Coriolan Exiles,,,,,3,colony-facility,colony,facility,"You may add idle D to this facility during your upkeep.
+T: Flip all D on this facility. You may work Highborn Academy while citizens are on it.",
+highborn-nursery,Highborn Nursery,coriolan-exiles,Coriolan Exiles,,,,,3,colony-facility,colony,facility,"Place a T from the Creche on this facility during your growth phase. Do not remove citizens from here during your upkeep.
+TTT➤ Move all T on this facility to your Citadel.",
+ice-hauler,Ice Hauler,coriolan-exiles,Coriolan Exiles,1,1,3,ddd,3,unit-mech,unit,mech,Gain +1 T on your Citadel during your growth phase.,Permafrost is critical to human survival on Apsyntion - big melts must be managed with care.
+merchant-caravan,Merchant Caravan,coriolan-exiles,Coriolan Exiles,0,1,5,ddddd,3,unit-human/xeno,unit,human/xeno,"During your upkeep you may choose another Faction, and trade a card in your hand for a random card from theirs.",
+migrant-labor,Migrant Labor,coriolan-exiles,Coriolan Exiles,,,,,0,reflex,reflex,,You may work another player’s facility as if it were your own (your citizens will become owned by that player).,
+mule,Mule,coriolan-exiles,Coriolan Exiles,,,,,3,augment-unit,augment,unit,"All units in this lane gain +1 Attack.
+If this unit receives damage, you may scrap this augment to reduce that damage by 1.",We crossed the steppe with the so-called help of a machine we all learned to hate.
+musk-ceph,Musk Ceph,coriolan-exiles,Coriolan Exiles,2,0,5,ddddd,3,unit-xeno,unit,xeno,"Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",Pack ceph are oft decked in perfumed saddles to hide the smell.
+noble-profession,Noble Profession,coriolan-exiles,Coriolan Exiles,,,,,3,augment-facility,augment,facility,All D who work this facility become T.,
+open-market,Open Market,coriolan-exiles,Coriolan Exiles,,,,,3,colony-facility,colony,facility,"D: Draw a random card from your scrap, then discard a card.",
+plutocracy,Plutocracy,coriolan-exiles,Coriolan Exiles,,,,,1,reflex,reflex,,T used to work Forges do not flip when cards are finished.,"The poor have sometimes objected to being governed badly; the rich have always objected to being governed at all.
+-Datalinks"
+prodigal-sons,Prodigal Sons,coriolan-exiles,Coriolan Exiles,,,,,4,reflex,reflex,,Add 2 T to a Citadel from the Creche.,"Men return from the wastes all the time - at least, they were men when they left."
+rail-cavalry,Rail Cavalry,coriolan-exiles,Coriolan Exiles,2,0,3,ddd,5,unit-antigrav,unit,antigrav,"Airborne (Each airborne unit may move during your move phase)
+Pierce (This unit ignores Armor when in combat.)",
+relocation,Relocation,coriolan-exiles,Coriolan Exiles,,,,,2,reflex,reflex,,Take a citizen from any player’s colony and add it to a target Citadel.,
+ruined-arcology,Ruined Arcology,coriolan-exiles,Coriolan Exiles,,,,,4,colony-facility,colony,facility,T: Add 1 to all cards in target Forge.,Rebuilding Eden in our own image.
+scrap-hunt,Scrap Hunt,coriolan-exiles,Coriolan Exiles,,,,,1,reflex,reflex,,Take target card from your scrap and add it to your hand.,
+scrap-scavengers,Scrap Scavengers,coriolan-exiles,Coriolan Exiles,1,1,4,dddd,3,unit-human,unit,human,You may add 1 to a Forge card anytime a card is scrapped.,The twisted wreck of the Apsynthos is a womb of riches - for those who would test its defenses.
+stun-whip,Stun Whip,coriolan-exiles,Coriolan Exiles,,,,,2,augment-unit,augment,unit,"If this unit deals combat damage, the damaged unit has -1 Attack until the end of phase.",
+synthsilk-hatchery,Synthsilk Hatchery,coriolan-exiles,Coriolan Exiles,,,,,4,colony-facility,colony,facility,D: Target unit gains +1 Armor until end of phase.,Such tiny creatures the basis for mass mobilization - revolution birthed from a raveling cocoon.
+technocrat,Technocrat,coriolan-exiles,Coriolan Exiles,1,1,3,ddd,3,unit-human,unit,human,Gain an additional 1 on every card in your Forge during your upkeep.,"Overly broad, terribly technical, the ultimate fusion of politics and engineering."
+ambush,Ambush,red-hegemony,Red Hegemony,,,,,2,reflex,reflex,,Play during an attack. Reverse the order of target lane.,
+arena,Arena,red-hegemony,Red Hegemony,,,,,3,colony-facility,colony,facility,"D: Reveal the top card of your deck. If it is an Echo, add a health from the Creche to a target unit. Then place the card on the bottom of your deck.",
+betrayal,Betrayal,red-hegemony,Red Hegemony,,,,,3,reflex,reflex,,Target unit deals its Attack damage to an adjacent unit of your choice.,
+bombardment,Bombardment,red-hegemony,Red Hegemony,,,,,4,reflex,reflex,,Deal 2 damage to target unit and each adjacent unit.,God is on the side with the best artillery.
+bounty-hunters,Bounty Hunters,red-hegemony,Red Hegemony,3,1,3,ddd,4,unit-human,unit,human,"If this unit deals lethal combat damage, scrap a D from your Citadel or scrap this unit.",
+brassjackets,Brassjackets,red-hegemony,Red Hegemony,2,0,5,ddddd,4,unit-synth,unit,synth,"While this unit is at full health, it has Pierce (This unit ignores Armor when in combat.)","Slave synths are disposable, since keeping one in bondage is a risk few would take on."
+civilian-casualties,Civilian Casualties,red-hegemony,Red Hegemony,,,,,1,reflex,reflex,,Target a player who has just been breached. Scrap a citizen from their citadel.,"When they called my name, no one spoke. They culled the heroes first."
+clone-stock,Clone Stock,red-hegemony,Red Hegemony,,,,,3,augment-unit,augment,unit,"Add one health to this unit from the Creche.
+During your upkeep, this unit adds one health from the Crèche.",If only I had two more like you.
+cloudbreak-spire,Cloudbreak Spire,red-hegemony,Red Hegemony,,,,,4,colony-facility,colony,facility,T: Units attacking you get -1 Armor until end of phase.,"Cloudbreakers are the eyes of heaven, staring deep into hell."
+corsairs,Corsairs,red-hegemony,Red Hegemony,3,0,3,ddd,4,unit-antigrav,unit,antigrav,"This unit may look at an extra card any time it breaches a faction.
+Airborne (Each airborne unit may move during your move phase)",Thievery was the first virtue restored from the Old World.
+datajack-bandits,Datajack Bandits,red-hegemony,Red Hegemony,1,1,4,dddd,3,unit-human,unit,human,This unit’s breach value is +2.,
+decksweeps,Decksweeps,red-hegemony,Red Hegemony,1,0,5,ddddd,2,unit-human,unit,human,You may scrap a health from this unit to increase a Forge card by 1.,The scarlet banners inspire fear in victim and bearer alike.
+exosuit,Exosuit,red-hegemony,Red Hegemony,,,,,2,augment-unit,augment,unit,"This unit gains +2 Armor, and is Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+gambler's-eye,Gambler's Eye,red-hegemony,Red Hegemony,,,,,2,augment-unit,augment,unit,"During your upkeep, you may look at any number of cards in an opponent’s hand, up to this unit’s health. If you find an Echo, score one. If you do not, this unit loses 1 health for each card you saw.","Acquisition of great wealth, or furious punishment."
+grave-horde,Grave Horde,red-hegemony,Red Hegemony,,,,,4,colony-facility,colony,facility,"If a unit is damaged in a battle with your units, you may move any health that would be scrapped to this facility.","Nanite clouds erupted from the bodies when disturbed, the final gasp of the soul."
+hacker's-den,Hacker's Den,red-hegemony,Red Hegemony,,,,,3,colony-facility,colony,facility,T: Draw a random card from an opponent’s scrap and add it to your hand.,Exiles from the overcity turn into parasites in the network.
+hegemony-pirates,Hegemony Pirates,red-hegemony,Red Hegemony,3,1,4,dddd,5,unit-human,unit,human,"If this unit breaches and scores an Echo, you may restore 1 health to it from your Citadel.",
+hegemony-slavers,Hegemony Slavers,red-hegemony,Red Hegemony,2,1,2,dd,4,unit-human,unit,human,"Whenever this unit breaches a Faction, you may take 1 citizen from that Faction’s colony and add it to an adjacent unit.
+Slavelink (This unit gains +1 Attack for every other unit you control in the lane.)",
+hellcat,Hellcat,red-hegemony,Red Hegemony,3,0,4,dddd,4,unit-mech,unit,mech,"Whenever this unit survives combat, it adds 1 health from the Crèche.","A scav mech lacks in beauty, but overflows with personality."
+hornet-swarm,Hornet Swarm,red-hegemony,Red Hegemony,0,0,4,dddd,6,unit-synth,unit,synth,"Squad (This unit gets +1 Attack for every health on it.)
+Airborne (Each airborne unit may move during your move phase)",
+listening-post,Listening Post,red-hegemony,Red Hegemony,,,,,3,colony-facility,colony,facility,D: Look at a card in any player’s Forge.,Keep your ear to the ground and you’ll get the Shroud’s eye view.
+privateer-contract,Privateer Contract,red-hegemony,Red Hegemony,,,,,2,reflex,reflex,,"Target a Faction. If this Faction is breached, the breaching Faction gains a T on their Citadel.",
+razorback,Razorback,red-hegemony,Red Hegemony,2,1,5,ddddd,4,unit-antigrav,unit,antigrav,"Airborne (Each airborne unit may move during your move phase)
+When this unit moves, scrap one health from it.","Big engine, no heatsinks."
+reconstruct,Reconstruct,red-hegemony,Red Hegemony,,,,,2,augment-unit,augment,unit,"This unit may immediately restore its health from your Citadel and is now a Mech with:
+ Slow (If this unit takes lethal combat damage, it does not deal damage in return.)
+And Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+shipbreakers,Shipbreakers,red-hegemony,Red Hegemony,1,0,4,dddd,2,unit-human,unit,human,You may lose a health from this unit to take a random card from your scrap into your hand.,"Dangerous work, plundering the tombs of ancient starfarers."
+smog-skiff,Smog Skiff,red-hegemony,Red Hegemony,1,2,3,ddd,3,unit-antigrav,unit,antigrav,"Airborne (Each airborne unit may move during your move phase)
+Adjacent units get -1 Attack",
+talent-hack,Talent Hack,red-hegemony,Red Hegemony,,,,,2,reflex,reflex,,All factions gain D during their growth phase instead of T.,"A mind supported by a neural network is a mind that is vulnerable, both within and without."
+telepath-graft,Telepath Graft,red-hegemony,Red Hegemony,,,,,2,augment-unit,augment,unit,"Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)
+This unit cannot move.","Grafting lilin muscular dendrites into human cervical vertebrae is how some of us get our rocks off.
+-Rinn Bell, Graft artist"
+tethered-nephilim,Tethered Nephilim,red-hegemony,Red Hegemony,3,2,1,t,6,unit-synth,unit,synth,"During your upkeep, you may scrap a health from this unit to look at an opponent’s hand, or a card in their Forge.",A Nephilim is the rare prize you chain to the biggest rock you can find.
+worker-hovels,Worker Hovels,red-hegemony,Red Hegemony,,,,,3,colony-facility,colony,facility,"D: Add 1 to a card in a Forge.
+If there are 3 or more D here, move them to target opponent’s Citadel. Scrap all T there.",Stinking hives just waiting for the overseers. I say concentration breeds contempt. -Foreman Domai
+apsynthos-nanocores,Apsynthos Nanocores,machina-sapiens,Machina Sapiens,,,,,5,colony-facility,colony,facility,"D: Flip this Drone, then add a T to this facility from the Creche.","“Don’t call us graverobbers. Plunderers. Those who call the wreck a ‘tomb’ are superstitious tribals, or plain old fools.”"
+black-queen,Black Queen,machina-sapiens,Machina Sapiens,2,1,1,d,4,unit-synth,unit,synth,Slavelink (This unit gains +1 Attack for every other unit you control in the lane.),"Big brain queen. holdin’ so many bastard’s thoughts all at once, big old brain full of secrets and lies."
+blink-gate,Blink Gate,machina-sapiens,Machina Sapiens,,,,,5,colony-facility,colony,facility,D: Move target unit you control to any position in any lane OR reveal a finished unit and forge it.,"Work crews refused to enter at first, convinced we had opened a gate to hell."
+blink-module,Blink Module,machina-sapiens,Machina Sapiens,,,,,2,augment-unit,augment,unit,You may move this unit to any position in the lane at the beginning of any combat phase.,
+cataphract,Cataphract,machina-sapiens,Machina Sapiens,2,1,2,dd,5,unit-synth,unit,synth,Pierce (This unit ignores Armor when in combat.),"Microminiature laser lances arc from its body on contact, shattering steel and a bit of bone."
+command-spire,Command Spire,machina-sapiens,Machina Sapiens,,,,,4,colony-facility,colony,facility,T: Units in target lane gain +1 Attack until end of phase.,"We watched the machines mimic the architecture of war, and ignored the obvious implications."
+corpse-harvesters,Corpse Harvesters,machina-sapiens,Machina Sapiens,1,1,3,ddd,3,unit-synth,unit,synth,"If any unit is scrapped, move its last health token to your Citadel.",Crechlings tell stories at night of the harvesters taking them away.
+cybernetic-conciousness,Cybernetic Conciousness,machina-sapiens,Machina Sapiens,,,,,2,reflex,reflex,,Units in target lane gain Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.),"Runner to technocrat; datajacks skipping stones off drone hive security backbones. Input soul, output jazz."
+datajack-wraiths,Datajack Wraiths,machina-sapiens,Machina Sapiens,3,0,3,ddd,4,unit-synth,unit,synth,"Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)
+Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",
+datalink-hub,Datalink Hub,machina-sapiens,Machina Sapiens,,,,,3,colony-facility,colony,facility,D: Place a T on this card from the creche for every Cybernetic unit in play.,Jill jacks in; to fetch the sin; steal the crown; kings tumble down.
+exterminating-servitors,Exterminating Servitors,machina-sapiens,Machina Sapiens,3,1,3,ddd,5,unit-synth,unit,synth,"Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)
+If this unit breaches a lane, the defending player scraps a citizen from their Citadel.",
+graft-rejection,Graft Rejection,machina-sapiens,Machina Sapiens,,,,,2,reflex,reflex,,Scrap target Augment.,Nanite compatibility is as much an art as a science. Multi-limb replacement failures are just bad luck.
+hunter-seeker,Hunter-Seeker,machina-sapiens,Machina Sapiens,2,1,3,ddd,4,unit-synth,unit,synth,You may move this unit to any position in the lane at the beginning of any combat phase.,It moves like the wind and bites like the frost.
+nanite-golems,Nanite Golems,machina-sapiens,Machina Sapiens,2,2,4,dddd,4,unit-synth,unit,synth,"Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",The first line written into the RNA was test code: ‘emet’.
+nanocore-emissaries,Nanocore Emissaries,machina-sapiens,Machina Sapiens,1,1,3,ddd,2,unit-synth,unit,synth,Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.),"Not flesh and bone, nor pure data, the emissaries are somewhere in between."
+nautilus,Nautilus,machina-sapiens,Machina Sapiens,2,1,1,d,3,unit-synth,unit,synth,Units adjacent to this one gain +1 Armor.,"Nautilus fields overlap in a most pleasant way, humming and buzzing and shrugging off nasty things."
+quiet-hulk,Quiet Hulk,machina-sapiens,Machina Sapiens,2,2,3,ddd,3,unit-synth,unit,synth,This unit only deals combat damage if it loses at least 1 health.,Children are warned when they are very small; not to throw stones at sleeping giants.
+remake,Remake,machina-sapiens,Machina Sapiens,,,,,3,reflex,reflex,,Target unit adds 2 health from the Creche.,
+repair-and-refit,Repair and Refit,machina-sapiens,Machina Sapiens,,,,,1,reflex,reflex,,"Restore health to any number of target units, using citizens from your Citadel.",
+shield-generator,Shield Generator,machina-sapiens,Machina Sapiens,,,,,2,augment-unit,augment,unit,Units adjacent to this one gain +1 Armor and are immune to Splash.,
+shrike-herd,Shrike Herd,machina-sapiens,Machina Sapiens,2,1,3,ddd,4,unit-synth,unit,synth,"Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)
+If this unit deals combat damage, add one of the health tokens that would be lost to this card instead.",
+snatchers,Snatchers,machina-sapiens,Machina Sapiens,2,1,2,dd,3,unit-synth,unit,synth,"You may remove a D from a target Citadel during your upkeep, and add it to your Citadel.",Synthetic psychology is tricky science - investigating a mind that is hellbent on becoming the investigator.
+stray-mecha,Stray Mecha,machina-sapiens,Machina Sapiens,1,1,3,ddd,2,unit-synth,unit,synth,Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.),"Mother mecha, mother mecha, are you alive?
+‘I breathe, I speak, I bleed, I die’"
+synaptic-umbilical,Synaptic Umbilical,machina-sapiens,Machina Sapiens,,,,,2,augment-unit,augment,unit,Target unit gains Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.),"Information is invisible, odorless, textureless. It is the oxygen of the new world."
+synth-fab,Synth Fab,machina-sapiens,Machina Sapiens,,,,,3,colony-facility,colony,facility,T: Use the Creche to restore 1 health to a target Synth or Mech unit.,Hulking masses of wires and swarming nanites — nests to incubate the unliving.
+tachyon-shield,Tachyon Shield,machina-sapiens,Machina Sapiens,,,,,6,colony-facility,colony,facility,"D: Return one health from a unit attacking you to its owner’s Citadel. If this scrapped the unit, return it to their hand.",Time will be our aegis now.
+teleport,Teleport,machina-sapiens,Machina Sapiens,,,,,1,reflex,reflex,,Move target unit to any position in any lane its owner controls. You cannot use this during a combat phase.,
+they-of-the-machine,They of the Machine,machina-sapiens,Machina Sapiens,,,,,3,reflex,reflex,,Synth and Mech units gain +1 Attack and +1 Armor while this is in play.,Synth fabs have strict codes of conduct for the Crèche techs. No swearing. No laughing. And absolutely no prayers in sight of the machines.
+thought-control,Thought Control,machina-sapiens,Machina Sapiens,,,,,4,reflex,reflex,,"Move target unit to the back of any lane, under the control of that player.
+Return this unit to its owner when this reflex is scrapped, in the back of a lane they control. If this is not possible, scrap it.",
+viral-saboteur,Viral Saboteur,machina-sapiens,Machina Sapiens,,,,,3,augment-unit,augment,unit,Any unit adjacent to this one loses one health during their controller’s upkeep.,"Datajacks are traitors. Cowards. Thieves. Let them try and crack our soldiers.
+-General Lia Madov, ‘Machine Casualties’"
+aegis-shell,Aegis Shell,utopian-remnant,Utopian Remnant,,,,,3,augment-unit,augment,unit,All units behind this one gain +1 Armor.,
+aether-tap,Aether Tap,utopian-remnant,Utopian Remnant,,,,,4,colony-facility,colony,facility,D: Add 2 to a card in a Forge.,"To drain the planet dry, we only had to break the skin."
+airdock,Airdock,utopian-remnant,Utopian Remnant,,,,,4,colony-facility,colony,facility,D: Move target unit you control to any position in any lane. This ability cannot be used during a combat phase.,
+apsynthos-revelations,Apsynthos Revelations,utopian-remnant,Utopian Remnant,,,,,0,reflex,reflex,,You may draw up to two cards. All other factions may immediately draw as many cards as you do.,Today we remember the sacrifice to give humanity our home - the fall of Terra and the gods revealed.
+chimera-empaths,Chimera Empaths,utopian-remnant,Utopian Remnant,1,0,5,ddddd,2,unit-chimera,unit,chimera,Units adjacent to this one restore one health from the Creche during your growth phase.,"<We are the voice of your pain>
+-Promethea probe logs"
+chimera-oracles,Chimera Oracles,utopian-remnant,Utopian Remnant,1,0,5,ddddd,3,unit-chimera,unit,chimera,"During your upkeep, you may look at target player’s hand or one card in their Forge.",We can remember your future.
+chimera-symbiont,Chimera Symbiont,utopian-remnant,Utopian Remnant,2,1,1,d,3,unit-chimera,unit,chimera,Health lost from adjacent units is placed on this card instead of the Creche.,Press your nails into your palm. Now release. That feeling of pain fading away? That’s what I pray for.
+chimera-telepaths,Chimera Telepaths,utopian-remnant,Utopian Remnant,1,0,5,ddddd,3,unit-chimera,unit,chimera,"If this unit is in a breach, your opponent reveals their hand or Forge respectively during selection.",We can see your secrets.
+cloning-tanks,Cloning Tanks,utopian-remnant,Utopian Remnant,,,,,6,colony-facility,colony,facility,"T➤ Add one T to your Citadel during your growth phase.
+D➤ Add one D to your Citadel during your growth phase.",
+cloudbreakers,Cloudbreakers,utopian-remnant,Utopian Remnant,3,1,4,dddd,6,unit-antigrav,unit,antigrav,Airborne (Each airborne unit may move during your move phase),"Air power rules this world - but rule humbly my friends. Remember Icarus.
+-Cloudbreaker Initiate Ceremony"
+command-ring,Command Ring,utopian-remnant,Utopian Remnant,,,,,3,colony-facility,colony,facility,T: Units in target lane gain +1 Attack for every T here until end of phase.,
+creche-tutors,Creche Tutors,utopian-remnant,Utopian Remnant,1,0,3,ddd,2,unit-synth,unit,synth,Add +1 T to your Citadel during your growth phase.,"The Chimera seek knowledge as a plant seeks water; brains straining against their organic limitations. They’ll need apt teachers.
+-Maestra Zayev, Chimera Handler"
+datajack-legion,Datajack Legion,utopian-remnant,Utopian Remnant,2,1,4,dddd,4,unit-synth,unit,synth,"Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)
+Health lost from this unit is returned to your Citadel.",For we are many.
+fractal-weave,Fractal Weave,utopian-remnant,Utopian Remnant,,,,,3,augment-unit,augment,unit,"This unit gains +1 Armor and Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",
+grav-skimmers,Grav Skimmers,utopian-remnant,Utopian Remnant,2,2,3,ddd,5,unit-antigrav,unit,antigrav,Airborne (Each airborne unit may move during your move phase),Our ancestors walked among the stars; we can barely lift our wings.
+gravcarrier,Gravcarrier,utopian-remnant,Utopian Remnant,1,2,5,ddddd,7,unit-antigrav,unit,antigrav,"Airborne (Each airborne unit may move during your move phase)
+You may restore this unit from your Citadel during your upkeep. During any player’s upkeep, you may add health from this unit to adjacent units.",
+ion-shroud,Ion Shroud,utopian-remnant,Utopian Remnant,,,,,4,augment-unit,augment,unit,This unit deals +2 damage and gains +1 Armor when resolving combat.,"A tiny hiss audible at the moment of contact, and the synth contorts into a tight, shuddering ball, like a dying insect."
+knit,Knit,utopian-remnant,Utopian Remnant,,,,,2,reflex,reflex,,Restore all health to target unit from the Creche.,New life from the old bones.
+misdirection,Misdirection,utopian-remnant,Utopian Remnant,,,,,1,reflex,reflex,,Target player may move any number of units they control to any position in either lane.,
+orbital-strike,Orbital Strike,utopian-remnant,Utopian Remnant,,,,,5,reflex,reflex,,Scrap target unit.,It’s the only way to be sure.
+peremeter-shield,Peremeter Shield,utopian-remnant,Utopian Remnant,,,,,5,colony-facility,colony,facility,D: All units in target defending lane gain +1 Armor until end of phase.,"We never saw the shield go up, but we felt the impact in our teeth as bullets shattered against air."
+psych-resontor,Psych Resontor,utopian-remnant,Utopian Remnant,,,,,3,augment-unit,augment,unit,"This unit gains +1 Attack in combat, or +2 if your opponent controls more Echoes than you.",Mind’s eye unclouded.
+spider-battery,Spider Battery,utopian-remnant,Utopian Remnant,3,1,2,dd,5,unit-mech,unit,mech,"Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+tachyon-burst,Tachyon Burst,utopian-remnant,Utopian Remnant,,,,,3,reflex,reflex,,Return target unit to its owner’s hand. Its health is returned to that player’s Citadel.,"The idea of such a weapon is logically absurd, but we would be fools to call it ineffective."
+tachyon-cannon,Tachyon Cannon,utopian-remnant,Utopian Remnant,,,,,3,augment-unit,augment,unit,"After this unit deals combat damage, return one health from the opposing unit to its owner’s Citadel. If this scraps the unit, return it to its owner’s hand.",
+tachyon-sentries,Tachyon Sentries,utopian-remnant,Utopian Remnant,2,1,3,ddd,4,unit-human,unit,human,"After this unit deals combat damage, return one health from the opposing unit to its owner’s Citadel. If this scraps the unit, return it to its owner’s hand.",Time travel was more fun when it was voluntary.
+technogeisha,Technogeisha,utopian-remnant,Utopian Remnant,2,0,3,ddd,3,unit-human,unit,human,"Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",A cocktail of pheromone enhancements offer a scent that is literally intoxicating.
+terraformers,Terraformers,utopian-remnant,Utopian Remnant,1,1,3,ddd,4,unit-mech,unit,mech,Your cards cost 1 less to Forge.,"Tear up the spore mats. That’s my policy.
+-Foreman Domai"
+water-extractors,Water Extractors,utopian-remnant,Utopian Remnant,,,,,5,colony-facility,colony,facility,DDD➤ Add +1 TD to your Citadel during your growth phase.,"These will be our monuments to the future generations of Apsyntion. Pull the acid from the oceans, and drink our fill."
+weather-control,Weather Control,utopian-remnant,Utopian Remnant,,,,,2,reflex,reflex,,Deal 1 damage to all Airborne units. All units have -1 Armor.,To bend the heavens themselves.
+agromechs,Agromechs,undercity-brotherhood,Undercity Brotherhood,0,1,4,dddd,5,unit-mech,unit,mech,Gain +1 T during your growth phase for every health on this unit.,
+creche-harvest,Creche Harvest,undercity-brotherhood,Undercity Brotherhood,,,,,1,reflex,reflex,,Place 2 D on this card from the Creche.,"Little bodies in the Drone pens, faces pressed tight against the glass."
+critical-shot,Critical Shot,undercity-brotherhood,Undercity Brotherhood,,,,,3,reflex,reflex,,Scrap one health from target unit.,
+crustcracker-gang,Crustcracker Gang,undercity-brotherhood,Undercity Brotherhood,3,1,4,dddd,3,unit-human,unit,human,"During your growth phase, scrap one health from Crustcracker Gang.","Convicts, layabouts, aristocrats, kings - every man is born again in the acid of the mines."
+flamer-crew,Flamer Crew,undercity-brotherhood,Undercity Brotherhood,2,1,4,dddd,4,unit-human,unit,human,"Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",A grendel will burn just like anything else. The smell isn’t much of a reward.
+flystrikers,Flystrikers,undercity-brotherhood,Undercity Brotherhood,2,0,4,dddd,3,unit-human,unit,human,"If this unit is dealt combat damage, scrap one health from the attacking unit.","A boiling nanite cloud - black as tar, hissing and roiling like hate, rising from the bodies..."
+geneforge-nurses,Geneforge Nurses,undercity-brotherhood,Undercity Brotherhood,1,1,3,ddd,,unit-human,unit,human,Add +1D to your Citadel during your growth phase.,"Midwives to the spliced abominations of an overripe society...
+-Inquisitor Sandoval, ‘The plank and the splinter’"
+graft-necrosis,Graft Necrosis,undercity-brotherhood,Undercity Brotherhood,,,,,1,reflex,reflex,,Target unit loses 1 health for every augment attached to it.																				,A bad graft could die in hours - taking the host to hell in a span of an afternoon.			
+homo-superior,Homo Superior,undercity-brotherhood,Undercity Brotherhood,2,2,3,ttt,5,unit-chimera,unit,chimera,You may scrap a D from your Citadel to deal +2 damage when resolving a combat with this unit.,"New monsters in old flesh, these so called ‘men’.
+-Malachai Renquist, Neogenesis Bishop"
+husk-harvesters,Husk Harvesters,undercity-brotherhood,Undercity Brotherhood,0,1,4,dddd,2,unit-human,unit,human,Each time you score an Echo you may add 1 to a card in your Forge.,"Harvesters follow the flame squads into the spore mats, digging through ashes for such a little thing..."
+hypnobar,Hypnobar,undercity-brotherhood,Undercity Brotherhood,,,,,3,augment-facility,augment,facility,Flip T after leaving this facility. Any D leaving this facility are scrapped.,The hypnostims were created to bring addicts back from the brink - now death is preferable to prohibition.
+iron-tortoise,Iron Tortoise,undercity-brotherhood,Undercity Brotherhood,1,3,2,dd,4,unit-mech,unit,mech,"Units behind Iron Tortoise gain +1 Armor.
+Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+lowhivers,Lowhivers,undercity-brotherhood,Undercity Brotherhood,2,0,5,ddddd,2,unit-human,unit,human,"This unit gains one D from your Citadel during your growth phase.
+During your upkeep, flip a T on the Citadel or scrap Lowhivers.",
+mandatory-stims,Mandatory Stims,undercity-brotherhood,Undercity Brotherhood,,,,,2,reflex,reflex,,Move all citizens from a facility to its controller’s Citadel.,Do the stims help us work longer? Or better? Should we be grateful we retain the neural capacity to question?
+mantle-bore,Mantle Bore,undercity-brotherhood,Undercity Brotherhood,,,,,6,colony-facility,colony,facility,D: Add 1 to every card in target Forge.,"The drops of rain make a hole in the stone, not by violence, but by oft falling.
+-Proverbs, Datalinks"
+mindjack,Mindjack,undercity-brotherhood,Undercity Brotherhood,,,,,2,reflex,reflex,,Look at target opponent’s hand. Choose a non-Echo card and add it to your hand.,He felt his mind disconnect from his body - just a plug coming undone and then darkness.
+nerve-splice,Nerve Splice,undercity-brotherhood,Undercity Brotherhood,,,,,x,reflex,reflex,,Flip X T on target Citadel. Any player attacking you has +1 breach value.,A necessary atrocity.
+neural-amp,Neural Amp,undercity-brotherhood,Undercity Brotherhood,,,,,2,augment-unit,augment,unit,This unit gains +2 Attack.,"Amplify your ideals, send them out among your troops, and they will tear your enemies asunder."
+nodal-addicts,Nodal Addicts,undercity-brotherhood,Undercity Brotherhood,1,0,1,d,2,unit-human,unit,human,"You must put a T from your Citadel on this unit during your growth phase, or scrap it.
+If attacking and breaching, you may scrap health from this unit. Scrap a citizen from the opposing colony for each health lost.",
+pleasure-dome,Pleasure Dome,undercity-brotherhood,Undercity Brotherhood,,,,,2,colony-facility,colony,facility,TT➤ You may add one additional T to your Citadel during your growth phase.,
+punishment-chamber,Punishment Chamber,undercity-brotherhood,Undercity Brotherhood,,,,,2,colony-facility,colony,facility,"D: Add 2 to a Forge card.
+Scrap all citizens on this facility during your upkeep.",Fear will keep the rabble in line.
+recycling-vats,Recycling Vats,undercity-brotherhood,Undercity Brotherhood,,,,,2,colony-facility,colony,facility,Health lost from units you control may be placed on this facility instead of scrapped. ,It is every citizen’s final duty.
+rut-hollow,Rut Hollow,undercity-brotherhood,Undercity Brotherhood,,,,,2,colony-facility,colony,facility,DD➤ Add a D to your Citadel during your growth phase.,"They can see the glint of the pleasure dome reflecting like a diamond, a kilometer above the hollow."
+scav-gang,Scav Gang,undercity-brotherhood,Undercity Brotherhood,0,1,3,ddd,5,unit-human,unit,human,"Squad (This unit gets +1 Attack for every health on it.)
+If this unit deals lethal damage, take an augment from that unit and attach it to Scav Gang.",
+secret-police,Secret Police,undercity-brotherhood,Undercity Brotherhood,3,1,3,ddd,2,unit-human,unit,human,Flip a T on your Citadel during your upkeep or scrap Secret Police.,
+sporemask,Sporemask,undercity-brotherhood,Undercity Brotherhood,,,,,2,augment-unit,augment,unit,This unit has +1 Armor.,Fungus mats convert organic matter into a thick sludge in hours - the masks prevent this conversion within the lungs.
+stimshifts,Stimshifts,undercity-brotherhood,Undercity Brotherhood,,,,,2,augment-facility,augment,facility,Each citizen used to work this facility counts as two. Any citizens removed from this facility are scrapped.,One Drone can work twice as hard for half the life.
+tital-cannon,Tital Cannon,undercity-brotherhood,Undercity Brotherhood,,,,,8,colony-facility,colony,facility,D: Deal 1 damage to target unit and each adjacent unit.,"In the recoil there is a hollow quiet, as the planet holds its breath."
+vir-ex-machina,Vir ex Machina,undercity-brotherhood,Undercity Brotherhood,,,,,4,augment-unit,augment,unit,"Search a scrap for a unit, and forge it immediately into the back of one of your lanes. Attach this augment.
+If this augment is ever removed, scrap the attached unit.",
+walker-artillery,Walker Artillery,undercity-brotherhood,Undercity Brotherhood,2,2,2,dd,6,unit-mech,unit,mech,"You may target a Citadel or facility during your upkeep. Its controller chooses a citizen there and scraps it.
+Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+battle-stims,Battle Stims,myrmidon-dominion,Myrmidon Dominion,,,,,2,augment-unit,augment,unit,This unit gains Resilient (Restore one health from the Creche during your growth phase.),"She pressed the stimkit to her vein, and felt her heart beating like an over taut drum — a moment like falling in love."
+burnout,Burnout,myrmidon-dominion,Myrmidon Dominion,,,,,1,reflex,reflex,,All T on Citadels flip at the end of  forge phase.,Stimshock is a danger drilled into every Crecheling.
+conscription,Conscription,myrmidon-dominion,Myrmidon Dominion,,,,,1,reflex,reflex,,Target player may flip as many T as they wish on their Citadel. They may use D to restore the health of any number of units.,
+defensive-position,Defensive Position,myrmidon-dominion,Myrmidon Dominion,,,,,2,reflex,reflex,,Target a unit in combat. It gains +1 Armor for each other unit in its lane.,
+drillyard,Drillyard,myrmidon-dominion,Myrmidon Dominion,,,,,4,colony-facility,colony,facility,D: Target unit gains +1 Attack until end of phase.,"Battle hymns stream forth from minarets, just tall enough to graze heaven."
+firehawk-bomber,Firehawk Bomber,myrmidon-dominion,Myrmidon Dominion,3,0,3,ddd,5,unit-antigrav,unit,antigrav,"Airborne (Each airborne unit may move during your move phase)
+Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+flesh-spare,Flesh Spare,myrmidon-dominion,Myrmidon Dominion,,,,,3,augment-unit,augment,unit,Any health lost from this unit may be placed on your Citadel instead of being scrapped.,"Envy these beasts! For they serve the maker’s will even at the end of their coil!
+-Malachai Renquist, Neogenesis Bishop"
+flux-ammo,Flux Ammo,myrmidon-dominion,Myrmidon Dominion,,,,,4,reflex,reflex,,Scrap 2 health from target unit.,"Weaponry on Apsyntion is an arms race between those who break armor, and those who break physics."
+geneforge,Geneforge,myrmidon-dominion,Myrmidon Dominion,,,,,3,colony-facility,colony,facility,T: Flip this T. Add 1 to all cards in target Forge.,The terran mule was a masterpiece of engineering. These mules have thumbs.
+goliath-cannon,Goliath Cannon,myrmidon-dominion,Myrmidon Dominion,,,,,4,colony-facility,colony,facility,D: Deal 1 damage to target unit.,A railgun is simply a magnet with attitude.
+iron-oni,Iron Oni,myrmidon-dominion,Myrmidon Dominion,1,2,3,ddd,4,unit-human,unit,human,"Pierce (This unit ignores Armor when in combat.)
+Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+lascannon-heavies,Lascannon Heavies,myrmidon-dominion,Myrmidon Dominion,1,3,4,dddd,4,unit-mech,unit,mech,You may scrap one health from this unit to switch its Armor and Attack values until end of phase.,The lasconnon is a formidable weapon with a sizable downside - its propensity to overload after seconds of strain.
+link-crown,Link Crown,myrmidon-dominion,Myrmidon Dominion,,,,,2,augment-unit,augment,unit,This unit gains Slavelink (This unit gains +1 Attack for every other unit you control in the lane.),As much a queen as any monarch.
+lotus-eaters,Lotus Eaters,myrmidon-dominion,Myrmidon Dominion,3,0,4,dddd,3,unit-human,unit,human,"If this unit attacks and you do not find an Echo, scrap a health from each adjacent unit.","When the stims kick... you just get out of the way, kid. Whatever hole you fall into first, you stay put."
+martial-law,Martial Law,myrmidon-dominion,Myrmidon Dominion,,,,,0,reflex,reflex,,"Add 1 to target Forge card for every unit you control, then scrap one health from every unit you control.","Laboring under tyrants, we longed to take their place."
+mech-foundry,Mech Foundry,myrmidon-dominion,Myrmidon Dominion,,,,,3,colony-facility,colony,facility,T: Restore one health to a target Mech or Antigrav unit from the Creche.,
+mech-junkies,Mech Junkies,myrmidon-dominion,Myrmidon Dominion,1,1,4,dddd,2,unit-human,unit,human,Each adjacent Mech or Antigrav unit gains +1 Attack and +1 Armor.,I’m a mechanic first and a therapist second.
+military-academy,Military Academy,myrmidon-dominion,Myrmidon Dominion,,,,,3,colony-facility,colony,facility,"You may place a D from your Citadel on this facility during your upkeep.
+T: Use D on this facility to restore the health of any units you control. You may use this ability when this facility is not idle.",
+newbloods,Newbloods,myrmidon-dominion,Myrmidon Dominion,2,0,5,ddddd,3,unit-human,unit,human,"If this unit deals lethal combat damage, flip a health token on it.
+During your upkeep, you may restore health to this unit from your Citadel.",
+powered-exoskeleton,Powered Exoskeleton,myrmidon-dominion,Myrmidon Dominion,,,,,3,augment-unit,augment,unit,This unit gains +1 Attack and +1 Armor.,"The flesh is weak, but the metal is willing."
+salamander-armor,Salamander Armor,myrmidon-dominion,Myrmidon Dominion,3,0,2,dd,4,unit-mech,unit,mech,"Slow (If this unit takes lethal combat damage, it does not deal damage in return.)
+This unit may be forged during a combat phase, before damage has been dealt, adding it to the back of the lane.",
+shock-troops,Shock Troops,myrmidon-dominion,Myrmidon Dominion,1,0,3,ddd,5,unit-human,unit,human,Squad (This unit gets +1 Attack for every health on it.),
+slave-battalion,Slave Battalion,myrmidon-dominion,Myrmidon Dominion,1,0,5,ddddd,2,unit-human,unit,human,Return this unit to your hand when it is destroyed.,
+stiltstrider,Stiltstrider,myrmidon-dominion,Myrmidon Dominion,3,2,2,dd,7,unit-mech,unit,mech,"Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)","When a ‘strider fires, the ion cloud makes your hair stand on end a kilometer away."
+striker-mech,Striker Mech,myrmidon-dominion,Myrmidon Dominion,2,1,3,ddd,5,unit-mech,unit,mech,"Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+synthsilk-platoon,Synthsilk Platoon,myrmidon-dominion,Myrmidon Dominion,1,1,4,dddd,7,unit-human,unit,human,Squad (This unit gets +1 Attack for every health on it.),A thread the width of a human hair can be woven into an army.
+tundra-palace,Tundra Palace,myrmidon-dominion,Myrmidon Dominion,,,,,4,colony-facility,colony,facility,T: Gain DDD on your Citadel from the Creche,Tyranny of the majority.
+veteran-plate,Veteran Plate,myrmidon-dominion,Myrmidon Dominion,,,,,5,augment-unit,augment,unit,"Search your scrap for a unit, and forge it for no cost. Attach Veteran Armor. Any D used for initial health become T.
+If Veteran Armor is ever removed, scrap the attached unit.",
+war-chiefs,War Chiefs,myrmidon-dominion,Myrmidon Dominion,3,1,4,dddd,4,unit-human,unit,human,"If you have no T on your Citadel at the beginning of your growth phase, scrap a health from this unit.","Hierarchy is everything to a Myrmidon warband, where a moment of weakness in the hymn can make a king into a corpse."
+warthirst,Warthirst,myrmidon-dominion,Myrmidon Dominion,,,,,1,reflex,reflex,,Target unit gains +1 Attack for each unit in the enemy lane during combat.,‘Warthirst’ is the master’s euphemism for stim-addicts and sleepwalkers. Battle fatigue worn as a badge of honor.
+anemoi,Anemoi,myrmidon-dominion,Myrmidon Dominion,2,1,4,dddd,3,unit-human,unit,human,Resilient (Restore one health from the Creche during your growth phase.),"Buffeted, tossed about, skin carved from storms that rage all their lives. Wormwood has hewn men from stone."
+apsyntion-communication,Apsyntion Communication,myrmidon-dominion,Myrmidon Dominion,,,,,0,reflex,reflex,,"Draw a card, then draw a card for each Xeno in play.","<are you the song or the singer>
+-First recording from Promethea probe"
+apsyntion-symbiosis,Apsyntion Symbiosis,myrmidon-dominion,Myrmidon Dominion,,,,,1,reflex,reflex,,"Target faction’s units each gain Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)","Ranna no longer felt ill when the spores drifted upwards, no longer dizzy from the song of the world."
+behemoth,Behemoth,myrmidon-dominion,Myrmidon Dominion,4,2,2,dd,8,unit-xeno,unit,xeno,"Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)","The behemoth is more like a force of nature than a living thing, and what man would choose to fight a hurricane?"
+borespikes,Borespikes,myrmidon-dominion,Myrmidon Dominion,,,,,5,augment-unit,augment,unit,This unit gains +1 Armor and Pierce (This unit ignores Armor when in combat.),"A borespike might look like a tusk or a thorn to a layman, but a rose can’t chew its way through composite armor."
+boreworm,Boreworm,myrmidon-dominion,Myrmidon Dominion,4,1,1,d,5,unit-xeno,unit,xeno,"Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)","We’re looking at Eden’s defense system. Who are we to spit in the face of God?
+-Vergil, Brood Handler"
+brood-den,Brood Den,myrmidon-dominion,Myrmidon Dominion,,,,,3,colony-facility,colony,facility,"D➤ When you remove a D from this facility, you may add it to a target Xeno unit.",Lilin Matrons die protecting their final clutch — a first meal for the last born.
+brood-handlers,Brood Handlers,myrmidon-dominion,Myrmidon Dominion,1,1,3,ddd,3,unit-chimera,unit,chimera,"Adjacent Xenos gain +1 Attack, and may restore 1 health from the Creche during your upkeep.","<your song is our song. the others must now be silent>
+-End of Promethea Probe logs"
+bury,Bury,myrmidon-dominion,Myrmidon Dominion,,,,,1,reflex,reflex,,"Move target unit to the back of any lane its owner controls. While this reflex is active, this unit gets -1 Attack and +1 Armor.",
+chrysalis,Chrysalis,myrmidon-dominion,Myrmidon Dominion,0,1,1,d,2,unit-xeno,unit,xeno,"Add one D to this unit from the Creche during your growth phase.
+If Chrysalis has 4 health, you may scrap and replace it with a Xeno from your hand. It gains all health from Chrysalis.",
+contact,Contact,myrmidon-dominion,Myrmidon Dominion,,,,,1,reflex,reflex,,"Draw a card. If it is a unit, you may add it to the front of a lane you control with 1 health added from the Creche. If not, return it to the top of the deck.","My fingers brushed chitin and I heard the planet speak.
+-Ranna Myran, Promethea Probe Team"
+flock-webs,Flock Webs,myrmidon-dominion,Myrmidon Dominion,,,,,2,augment-unit,augment,unit,"This unit is Slow (If this unit takes lethal combat damage, it does not deal damage in return.)
+If this unit deals combat damage to a unit, this card becomes attached to that unit.",
+fungus-farm,Fungus Farm,myrmidon-dominion,Myrmidon Dominion,,,,,2,colony-facility,colony,facility,D: Add 1 D to this card from the Creche.,Lilin biostructures are complex neural weaves. A fungus farmer is as much an agriculturist as he is a psychiatrist.
+harlequin,Harlequin,myrmidon-dominion,Myrmidon Dominion,2,1,3,ddd,4,unit-xeno,unit,xeno,"Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",Chromatophores in the skin give the harlequin impeccable camouflage. 
+incursion,Incursion,myrmidon-dominion,Myrmidon Dominion,,,,,2,reflex,reflex,,"Target unit gains +1 Attack, +1 Armor and Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",
+lilin-hive,Lilin Hive,myrmidon-dominion,Myrmidon Dominion,,,,,2,colony-facility,colony,facility,"If a unit you control loses health, you may place the token here instead of scrapping it. You cannot remove tokens from this card. 
+For every 4 citizens here, units you control do +1 combat damage.",
+lilin-matron,Lilin Matron,myrmidon-dominion,Myrmidon Dominion,1,1,1,d,4,unit-xeno,unit,xeno,"Add one health from the Crèche during your upkeep.
+Squad (This unit gets +1 Attack for every health on it.)",Her children are legion.
+lilin-vultures,Lilin Vultures,myrmidon-dominion,Myrmidon Dominion,0,1,1,d,2,unit-xeno,unit,xeno,"If any unit is scrapped, you may add a health to this unit from the Creche.
+Squad (This unit gets +1 Attack for every health on it.)",
+mark-of-the-hive,Mark of the Hive,myrmidon-dominion,Myrmidon Dominion,,,,,2,augment-facility,augment,facility,Any citizens on this facility are lost during that player’s growth phase.,There was no gnashing of teeth - this was something so alien it could not hate.
+mimetic-scales,Mimetic Scales,myrmidon-dominion,Myrmidon Dominion,,,,,2,augment-unit,augment,unit,"This unit gains Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.).","He startles, and his skin shifts in tone and texture, as his thoughts betray his camouflage."
+musk-herders,Musk Herders,myrmidon-dominion,Myrmidon Dominion,1,0,4,dddd,2,unit-human,unit,human,"Resilient (Restore one health from the Creche during your growth phase.)
+If this unit is at full health, you gain +1 T during your growth phase.",Herdsmen returning with a full flock are heroes for a day.
+shroud,Shroud,myrmidon-dominion,Myrmidon Dominion,2,1,2,dd,3,unit-xeno,unit,xeno,Airborne (Each airborne unit may move during your move phase),"The real terror is behind you, when the second shroud blocks out the sun."
+spawning-pits,Spawning Pits,myrmidon-dominion,Myrmidon Dominion,,,,,4,colony-facility,colony,facility,D: Restore 1 health to a unit you control from the Creche.,Neuroplastic fungal mats remarkably similar to our own creche tech - a fractal bridge between our species.
+spore-weevils,Spore Weevils,myrmidon-dominion,Myrmidon Dominion,0,0,4,dddd,5,unit-xeno,unit,xeno,Squad (This unit gets +1 Attack for every health on it.),A blight of weevils knows only hunger.
+sporemask-poachers,Sporemask Poachers,myrmidon-dominion,Myrmidon Dominion,3,0,3,ddd,4,unit-human,unit,human,"Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",Poachers only need a few moments in the mist to fill a sac with a month’s salary.
+wind-cathedral,Wind Cathedral,myrmidon-dominion,Myrmidon Dominion,,,,,4,colony-facility,colony,facility,"During their upkeep, each opponent must move a D from their Citadel to this facility, if they can.","When the planet sang, we listened and learned. This is their Voice, and it calls to all humanity.
+-Cult Bishop Neroma"
+windlion,Windlion,myrmidon-dominion,Myrmidon Dominion,3,0,3,ddd,4,unit-xeno,unit,xeno,"Slow (If this unit takes lethal combat damage, it does not deal damage in return.)
+This unit gains +1 Attack for each point of health below its maximum.",The bellow is tuned to a critical frequency - pained howls can crack armor... or a man’s skeleton.
+windwalker-camp,Windwalker Camp,myrmidon-dominion,Myrmidon Dominion,,,,,3,colony-facility,colony,facility,D: Restore 1 health to target unit from your Citadel.,They tamed the wasteland. Only fitting they would tame the Lilin.
+xeno-psychology,Xeno Psychology,myrmidon-dominion,Myrmidon Dominion,,,,,1,reflex,reflex,,Your units gain +1 Attack.,"We’re looking at a myconeural network with a far greater magnitude than the human brain. We are the virus here.
+-Ranna Myren, Promethea Probe Team"
+xenophagy,Xenophagy,myrmidon-dominion,Myrmidon Dominion,,,,,2,augment-unit,augment,unit,"This unit gains Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",

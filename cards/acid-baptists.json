@@ -1,0 +1,15 @@
+{
+    "id": "acid-baptists",
+    "name": "Acid Baptists",
+    "faction": "neogenesis-church",
+    "attack": 1,
+    "armor": 1,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "During your growth phase, you may flip a D in your colony.",
+    "flavor_text": "Bathed in a river of memetic nanites, they bring the flock to pasture."
+}

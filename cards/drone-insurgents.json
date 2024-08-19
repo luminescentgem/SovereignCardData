@@ -1,0 +1,15 @@
+{
+    "id": "drone-insurgents",
+    "name": "Drone Insurgents",
+    "faction": "sovereign-dronestate",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit breaches a Faction, add the number of D on their Citadel to the breach value (up to the health of this unit).",
+    "flavor_text": ""
+}

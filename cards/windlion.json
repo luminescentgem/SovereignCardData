@@ -1,0 +1,15 @@
+{
+    "id": "windlion",
+    "name": "Windlion",
+    "faction": "myrmidon-dominion",
+    "attack": 3,
+    "armor": 0,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Slow (If this unit takes lethal combat damage, it does not deal damage in return.)\r\nThis unit gains +1 Attack for each point of health below its maximum.",
+    "flavor_text": "The bellow is tuned to a critical frequency - pained howls can crack armor... or a man\u2019s skeleton."
+}

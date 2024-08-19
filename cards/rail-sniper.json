@@ -1,0 +1,15 @@
+{
+    "id": "rail-sniper",
+    "name": "Rail Sniper",
+    "faction": "sovereign-dronestate",
+    "attack": 1,
+    "armor": 1,
+    "health": 1,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)\r\nRail Sniper may scrap one health from a target unit at the beginning of your combat phase.",
+    "flavor_text": ""
+}

@@ -1,0 +1,13 @@
+{
+    "id": "they-of-the-machine",
+    "name": "They of the Machine",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Synth and Mech units gain +1 Attack and +1 Armor while this is in play.",
+    "flavor_text": "Synth fabs have strict codes of conduct for the Cr\u00e8che techs. No swearing. No laughing. And absolutely no prayers in sight of the machines."
+}

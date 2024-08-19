@@ -1,0 +1,15 @@
+{
+    "id": "listening-post",
+    "name": "Listening Post",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Look at a card in any player\u2019s Forge.",
+    "flavor_text": "Keep your ear to the ground and you\u2019ll get the Shroud\u2019s eye view."
+}

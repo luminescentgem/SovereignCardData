@@ -1,0 +1,15 @@
+{
+    "id": "hive-radicals",
+    "name": "Hive Radicals",
+    "faction": "sovereign-dronestate",
+    "attack": 1,
+    "armor": 0,
+    "health": 1,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit breaches a faction, you may take a D from the defending player\u2019s Citadel and add it to this unit.\r\nSquad (This unit gets +1 Attack for every health on it.)",
+    "flavor_text": ""
+}

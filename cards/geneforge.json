@@ -1,0 +1,15 @@
+{
+    "id": "geneforge",
+    "name": "Geneforge",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Flip this T. Add 1 to all cards in target Forge.",
+    "flavor_text": "The terran mule was a masterpiece of engineering. These mules have thumbs."
+}

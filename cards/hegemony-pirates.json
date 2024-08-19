@@ -1,0 +1,15 @@
+{
+    "id": "hegemony-pirates",
+    "name": "Hegemony Pirates",
+    "faction": "red-hegemony",
+    "attack": 3,
+    "armor": 1,
+    "health": 4,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit breaches and scores an Echo, you may restore 1 health to it from your Citadel.",
+    "flavor_text": ""
+}

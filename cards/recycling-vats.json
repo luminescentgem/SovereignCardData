@@ -1,0 +1,15 @@
+{
+    "id": "recycling-vats",
+    "name": "Recycling Vats",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "Health lost from units you control may be placed on this facility instead of scrapped. ",
+    "flavor_text": "It is every citizen\u2019s final duty."
+}

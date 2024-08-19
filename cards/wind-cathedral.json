@@ -1,0 +1,15 @@
+{
+    "id": "wind-cathedral",
+    "name": "Wind Cathedral",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "During their upkeep, each opponent must move a D from their Citadel to this facility, if they can.",
+    "flavor_text": "When the planet sang, we listened and learned. This is their Voice, and it calls to all humanity.\r\n-Cult Bishop Neroma"
+}

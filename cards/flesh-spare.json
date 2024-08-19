@@ -1,0 +1,15 @@
+{
+    "id": "flesh-spare",
+    "name": "Flesh Spare",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Any health lost from this unit may be placed on your Citadel instead of being scrapped.",
+    "flavor_text": "Envy these beasts! For they serve the maker\u2019s will even at the end of their coil!\r\n-Malachai Renquist, Neogenesis Bishop"
+}

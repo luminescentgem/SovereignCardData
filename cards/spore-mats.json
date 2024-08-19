@@ -1,0 +1,15 @@
+{
+    "id": "spore-mats",
+    "name": "Spore Mats",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Add a T to this facility from the Creche.",
+    "flavor_text": "Mutation rates are within acceptable limits."
+}

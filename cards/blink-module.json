@@ -1,0 +1,15 @@
+{
+    "id": "blink-module",
+    "name": "Blink Module",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "You may move this unit to any position in the lane at the beginning of any combat phase.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "chrysalis",
+    "name": "Chrysalis",
+    "faction": "myrmidon-dominion",
+    "attack": 0,
+    "armor": 1,
+    "health": 1,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Add one D to this unit from the Creche during your growth phase.\r\nIf Chrysalis has 4 health, you may scrap and replace it with a Xeno from your hand. It gains all health from Chrysalis.",
+    "flavor_text": ""
+}

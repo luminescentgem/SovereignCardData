@@ -1,0 +1,13 @@
+{
+    "id": "critical-shot",
+    "name": "Critical Shot",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Scrap one health from target unit.",
+    "flavor_text": ""
+}

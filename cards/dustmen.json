@@ -1,0 +1,15 @@
+{
+    "id": "dustmen",
+    "name": "Dustmen",
+    "faction": "sovereign-dronestate",
+    "attack": 2,
+    "armor": 0,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit breaches a hand and you do not find an echo, you may add one of the revealed cards to your hand rather than discarding it.",
+    "flavor_text": ""
+}

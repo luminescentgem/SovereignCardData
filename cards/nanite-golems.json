@@ -1,0 +1,15 @@
+{
+    "id": "nanite-golems",
+    "name": "Nanite Golems",
+    "faction": "machina-sapiens",
+    "attack": 2,
+    "armor": 2,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+    "flavor_text": "The first line written into the RNA was test code: \u2018emet\u2019."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "stray-mecha",
+    "name": "Stray Mecha",
+    "faction": "machina-sapiens",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Cybernetic (This unit gains +1 Attack for every additional Cybernetic unit in play.)",
+    "flavor_text": "Mother mecha, mother mecha, are you alive?\r\n\u2018I breathe, I speak, I bleed, I die\u2019"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "chimera-oracles",
+    "name": "Chimera Oracles",
+    "faction": "utopian-remnant",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "During your upkeep, you may look at target player\u2019s hand or one card in their Forge.",
+    "flavor_text": "We can remember your future."
+}

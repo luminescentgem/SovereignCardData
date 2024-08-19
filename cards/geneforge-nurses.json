@@ -1,0 +1,15 @@
+{
+    "id": "geneforge-nurses",
+    "name": "Geneforge Nurses",
+    "faction": "undercity-brotherhood",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": null,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Add +1D to your Citadel during your growth phase.",
+    "flavor_text": "Midwives to the spliced abominations of an overripe society...\r\n-Inquisitor Sandoval, \u2018The plank and the splinter\u2019"
+}

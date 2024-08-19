@@ -1,0 +1,13 @@
+{
+    "id": "privateer-contract",
+    "name": "Privateer Contract",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target a Faction. If this Faction is breached, the breaching Faction gains a T on their Citadel.",
+    "flavor_text": ""
+}

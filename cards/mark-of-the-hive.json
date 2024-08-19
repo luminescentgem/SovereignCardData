@@ -1,0 +1,15 @@
+{
+    "id": "mark-of-the-hive",
+    "name": "Mark of the Hive",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "Any citizens on this facility are lost during that player\u2019s growth phase.",
+    "flavor_text": "There was no gnashing of teeth - this was something so alien it could not hate."
+}

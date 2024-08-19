@@ -1,0 +1,15 @@
+{
+    "id": "vir-ex-machina",
+    "name": "Vir ex Machina",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Search a scrap for a unit, and forge it immediately into the back of one of your lanes. Attach this augment.\r\nIf this augment is ever removed, scrap the attached unit.",
+    "flavor_text": ""
+}

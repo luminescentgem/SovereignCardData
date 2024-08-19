@@ -1,0 +1,15 @@
+{
+    "id": "nodal-addicts",
+    "name": "Nodal Addicts",
+    "faction": "undercity-brotherhood",
+    "attack": 1,
+    "armor": 0,
+    "health": 1,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "You must put a T from your Citadel on this unit during your growth phase, or scrap it.\r\nIf attacking and breaching, you may scrap health from this unit. Scrap a citizen from the opposing colony for each health lost.",
+    "flavor_text": ""
+}

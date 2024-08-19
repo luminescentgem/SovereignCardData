@@ -1,0 +1,15 @@
+{
+    "id": "hegemony-slavers",
+    "name": "Hegemony Slavers",
+    "faction": "red-hegemony",
+    "attack": 2,
+    "armor": 1,
+    "health": 2,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Whenever this unit breaches a Faction, you may take 1 citizen from that Faction\u2019s colony and add it to an adjacent unit.\r\nSlavelink (This unit gains +1 Attack for every other unit you control in the lane.)",
+    "flavor_text": ""
+}

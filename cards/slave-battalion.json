@@ -1,0 +1,15 @@
+{
+    "id": "slave-battalion",
+    "name": "Slave Battalion",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Return this unit to your hand when it is destroyed.",
+    "flavor_text": ""
+}

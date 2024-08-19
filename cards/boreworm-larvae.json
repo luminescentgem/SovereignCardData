@@ -1,0 +1,15 @@
+{
+    "id": "boreworm-larvae",
+    "name": "Boreworm Larvae",
+    "faction": "cult-of-apsynthos",
+    "attack": 3,
+    "armor": 1,
+    "health": 1,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Forge as an augment on target unit. During that unit\u2019s upkeep, add 1 health from it to Boreworm Larvae.\r\nIf the attached unit is scrapped, Boreworm Larvae moves to the back of any lane its owner controls.",
+    "flavor_text": ""
+}

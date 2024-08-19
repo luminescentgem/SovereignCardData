@@ -1,0 +1,15 @@
+{
+    "id": "apsyntion-preserve",
+    "name": "Apsyntion Preserve",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Units in target lane gain +1 Armor until the end of phase.",
+    "flavor_text": "If it were up to me, I\u2019d take the flamers to that swamp. But it\u2019s not up to me.\r\n-General Takei, Dominion Holonet"
+}

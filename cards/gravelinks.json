@@ -1,0 +1,15 @@
+{
+    "id": "gravelinks",
+    "name": "Gravelinks",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +1 Attack for every unit in your scrap.",
+    "flavor_text": "Memory augs provide immortality in the barracks - long dead soldiers train the living"
+}

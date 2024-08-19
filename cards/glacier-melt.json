@@ -1,0 +1,13 @@
+{
+    "id": "glacier-melt",
+    "name": "Glacier Melt",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Gain a T on your Citadel. Any faction may scrap a facility to gain a T on their Citadel.",
+    "flavor_text": "Water has been in contention on Apsyntion since our arrival. Today we take the first step to remedy its absence."
+}

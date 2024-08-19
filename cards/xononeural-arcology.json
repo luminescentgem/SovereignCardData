@@ -1,0 +1,15 @@
+{
+    "id": "xononeural-arcology",
+    "name": "Xononeural Arcology",
+    "faction": "cult-of-apsynthos",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Gain T on this card for every unit you control.",
+    "flavor_text": "An exponential shift in the neural net will accompany the fervor. We will finally be natives of Apsyntion."
+}

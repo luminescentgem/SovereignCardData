@@ -1,0 +1,15 @@
+{
+    "id": "endospexi",
+    "name": "Endospexi",
+    "faction": "cult-of-apsynthos",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "You may scrap a health from this unit to look at an opponent\u2019s hand or target card in their Forge.",
+    "flavor_text": "The endospexi are a relic of tribal colonies, sacrificing to the Lilin out of brutal necessity."
+}

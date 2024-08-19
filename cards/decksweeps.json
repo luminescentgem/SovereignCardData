@@ -1,0 +1,15 @@
+{
+    "id": "decksweeps",
+    "name": "Decksweeps",
+    "faction": "red-hegemony",
+    "attack": 1,
+    "armor": 0,
+    "health": 5,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "You may scrap a health from this unit to increase a Forge card by 1.",
+    "flavor_text": "The scarlet banners inspire fear in victim and bearer alike."
+}

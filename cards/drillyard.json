@@ -1,0 +1,15 @@
+{
+    "id": "drillyard",
+    "name": "Drillyard",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Target unit gains +1 Attack until end of phase.",
+    "flavor_text": "Battle hymns stream forth from minarets, just tall enough to graze heaven."
+}

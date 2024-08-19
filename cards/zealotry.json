@@ -1,0 +1,13 @@
+{
+    "id": "zealotry",
+    "name": "Zealotry",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Your Human units gain +1 Attack.\r\nYou may scrap any number of D from your Citadel to deal the same amount of damage to target non-human unit.",
+    "flavor_text": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": "corsairs",
+    "name": "Corsairs",
+    "faction": "red-hegemony",
+    "attack": 3,
+    "armor": 0,
+    "health": 3,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "This unit may look at an extra card any time it breaches a faction.\r\nAirborne (Each airborne unit may move during your move phase)",
+    "flavor_text": "Thievery was the first virtue restored from the Old World."
+}

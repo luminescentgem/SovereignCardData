@@ -1,0 +1,15 @@
+{
+    "id": "borespikes",
+    "name": "Borespikes",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 5,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +1 Armor and Pierce (This unit ignores Armor when in combat.)",
+    "flavor_text": "A borespike might look like a tusk or a thorn to a layman, but a rose can\u2019t chew its way through composite armor."
+}

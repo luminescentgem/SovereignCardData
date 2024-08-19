@@ -1,0 +1,15 @@
+{
+    "id": "library-of-the-ark",
+    "name": "Library of the Ark",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Choose a non-reflex card in your scrap and add it to your hand, then discard a card.",
+    "flavor_text": "Waste not, want not."
+}

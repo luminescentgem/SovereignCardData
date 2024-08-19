@@ -1,0 +1,15 @@
+{
+    "id": "webweave-cherubs",
+    "name": "Webweave Cherubs",
+    "faction": "neogenesis-church",
+    "attack": 2,
+    "armor": 1,
+    "health": 4,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit is in an attack, all units in the enemy lane are Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+    "flavor_text": ""
+}

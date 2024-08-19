@@ -1,0 +1,13 @@
+{
+    "id": "holy-day",
+    "name": "Holy Day",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Each faction must add a T to Holy Day during their Growth phase. Return a T to their Citadel if they skip their Combat phase. When Holy Day is scrapped, you must skip your combat phase unless you scrap all T on it. ",
+    "flavor_text": ""
+}

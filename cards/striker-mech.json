@@ -1,0 +1,15 @@
+{
+    "id": "striker-mech",
+    "name": "Striker Mech",
+    "faction": "myrmidon-dominion",
+    "attack": 2,
+    "armor": 1,
+    "health": 3,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+    "flavor_text": ""
+}

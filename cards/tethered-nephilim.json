@@ -1,0 +1,15 @@
+{
+    "id": "tethered-nephilim",
+    "name": "Tethered Nephilim",
+    "faction": "red-hegemony",
+    "attack": 3,
+    "armor": 2,
+    "health": 1,
+    "cost": 6,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "During your upkeep, you may scrap a health from this unit to look at an opponent\u2019s hand, or a card in their Forge.",
+    "flavor_text": "A Nephilim is the rare prize you chain to the biggest rock you can find."
+}

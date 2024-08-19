@@ -1,0 +1,13 @@
+{
+    "id": "civilian-casualties",
+    "name": "Civilian Casualties",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target a player who has just been breached. Scrap a citizen from their citadel.",
+    "flavor_text": "When they called my name, no one spoke. They culled the heroes first."
+}

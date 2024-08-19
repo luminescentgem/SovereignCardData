@@ -1,0 +1,15 @@
+{
+    "id": "stiltstrider",
+    "name": "Stiltstrider",
+    "faction": "myrmidon-dominion",
+    "attack": 3,
+    "armor": 2,
+    "health": 2,
+    "cost": 7,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Splash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+    "flavor_text": "When a \u2018strider fires, the ion cloud makes your hair stand on end a kilometer away."
+}

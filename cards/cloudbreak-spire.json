@@ -1,0 +1,15 @@
+{
+    "id": "cloudbreak-spire",
+    "name": "Cloudbreak Spire",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Units attacking you get -1 Armor until end of phase.",
+    "flavor_text": "Cloudbreakers are the eyes of heaven, staring deep into hell."
+}

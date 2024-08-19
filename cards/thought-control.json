@@ -1,0 +1,13 @@
+{
+    "id": "thought-control",
+    "name": "Thought Control",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Move target unit to the back of any lane, under the control of that player.\r\nReturn this unit to its owner when this reflex is scrapped, in the back of a lane they control. If this is not possible, scrap it.",
+    "flavor_text": ""
+}

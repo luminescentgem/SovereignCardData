@@ -1,0 +1,13 @@
+{
+    "id": "prodigal-sons",
+    "name": "Prodigal Sons",
+    "faction": "coriolan-exiles",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Add 2 T to a Citadel from the Creche.",
+    "flavor_text": "Men return from the wastes all the time - at least, they were men when they left."
+}

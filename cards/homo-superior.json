@@ -1,0 +1,15 @@
+{
+    "id": "homo-superior",
+    "name": "Homo Superior",
+    "faction": "undercity-brotherhood",
+    "attack": 2,
+    "armor": 2,
+    "health": 3,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "You may scrap a D from your Citadel to deal +2 damage when resolving a combat with this unit.",
+    "flavor_text": "New monsters in old flesh, these so called \u2018men\u2019.\r\n-Malachai Renquist, Neogenesis Bishop"
+}

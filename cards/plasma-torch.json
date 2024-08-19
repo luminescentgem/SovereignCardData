@@ -1,0 +1,15 @@
+{
+    "id": "plasma-torch",
+    "name": "Plasma Torch",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains Pierce (This unit ignores Armor when in combat.)",
+    "flavor_text": ""
+}

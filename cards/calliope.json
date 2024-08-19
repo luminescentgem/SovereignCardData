@@ -1,0 +1,15 @@
+{
+    "id": "calliope",
+    "name": "Calliope",
+    "faction": "sovereign-dronestate",
+    "attack": 2,
+    "armor": 1,
+    "health": 4,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "antigrav"
+    ],
+    "card_effect": "Slow (If this unit takes lethal combat damage, it does not deal damage in return.)\r\nSplash (When this unit deals combat damage, deal the same damage to the next enemy unit.)",
+    "flavor_text": ""
+}

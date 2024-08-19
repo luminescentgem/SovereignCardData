@@ -1,0 +1,15 @@
+{
+    "id": "nano-plantations",
+    "name": "Nano Plantations",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Add 1 D to your Citadel from the Creche.",
+    "flavor_text": "This is the line between heresy and necessity.\r\n-Inquisitor Marcus"
+}

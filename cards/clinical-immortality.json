@@ -1,0 +1,15 @@
+{
+    "id": "clinical-immortality",
+    "name": "Clinical Immortality",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Choose a unit in a scrap and place it in the back of target lane. Attach this card. Add one health from your Citadel. This unit gains Resilient (Restore one health from the Creche during your growth phase.).",
+    "flavor_text": "Humanity is shed as easily as an old skin."
+}

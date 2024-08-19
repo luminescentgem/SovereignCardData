@@ -1,0 +1,13 @@
+{
+    "id": "miraculous-escape",
+    "name": "Miraculous Escape",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target a unit in a battle that would be scrapped. At the end of the battle phase, return it to the back of its lane with     one health.",
+    "flavor_text": ""
+}

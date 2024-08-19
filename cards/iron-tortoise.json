@@ -1,0 +1,15 @@
+{
+    "id": "iron-tortoise",
+    "name": "Iron Tortoise",
+    "faction": "undercity-brotherhood",
+    "attack": 1,
+    "armor": 3,
+    "health": 2,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "mech"
+    ],
+    "card_effect": "Units behind Iron Tortoise gain +1 Armor.\r\nSlow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+    "flavor_text": ""
+}

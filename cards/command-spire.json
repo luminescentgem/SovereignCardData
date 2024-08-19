@@ -1,0 +1,15 @@
+{
+    "id": "command-spire",
+    "name": "Command Spire",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Units in target lane gain +1 Attack until end of phase.",
+    "flavor_text": "We watched the machines mimic the architecture of war, and ignored the obvious implications."
+}

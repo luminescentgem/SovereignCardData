@@ -1,0 +1,15 @@
+{
+    "id": "viral-saboteur",
+    "name": "Viral Saboteur",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "Any unit adjacent to this one loses one health during their controller\u2019s upkeep.",
+    "flavor_text": "Datajacks are traitors. Cowards. Thieves. Let them try and crack our soldiers.\r\n-General Lia Madov, \u2018Machine Casualties\u2019"
+}

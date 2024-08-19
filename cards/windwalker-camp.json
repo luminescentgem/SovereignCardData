@@ -1,0 +1,15 @@
+{
+    "id": "windwalker-camp",
+    "name": "Windwalker Camp",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Restore 1 health to target unit from your Citadel.",
+    "flavor_text": "They tamed the wasteland. Only fitting they would tame the Lilin."
+}

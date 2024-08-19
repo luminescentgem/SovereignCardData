@@ -1,0 +1,15 @@
+{
+    "id": "shipbreakers",
+    "name": "Shipbreakers",
+    "faction": "red-hegemony",
+    "attack": 1,
+    "armor": 0,
+    "health": 4,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "You may lose a health from this unit to take a random card from your scrap into your hand.",
+    "flavor_text": "Dangerous work, plundering the tombs of ancient starfarers."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "pleasure-dome",
+    "name": "Pleasure Dome",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "TT\u27a4 You may add one additional T to your Citadel during your growth phase.",
+    "flavor_text": ""
+}

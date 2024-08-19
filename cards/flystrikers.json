@@ -1,0 +1,15 @@
+{
+    "id": "flystrikers",
+    "name": "Flystrikers",
+    "faction": "undercity-brotherhood",
+    "attack": 2,
+    "armor": 0,
+    "health": 4,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit is dealt combat damage, scrap one health from the attacking unit.",
+    "flavor_text": "A boiling nanite cloud - black as tar, hissing and roiling like hate, rising from the bodies..."
+}

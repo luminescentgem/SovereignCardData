@@ -1,0 +1,13 @@
+{
+    "id": "apsynthos-revelations",
+    "name": "Apsynthos Revelations",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 0,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "You may draw up to two cards. All other factions may immediately draw as many cards as you do.",
+    "flavor_text": "Today we remember the sacrifice to give humanity our home - the fall of Terra and the gods revealed."
+}

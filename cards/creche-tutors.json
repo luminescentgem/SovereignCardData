@@ -1,0 +1,15 @@
+{
+    "id": "creche-tutors",
+    "name": "Creche Tutors",
+    "faction": "utopian-remnant",
+    "attack": 1,
+    "armor": 0,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "synth"
+    ],
+    "card_effect": "Add +1 T to your Citadel during your growth phase.",
+    "flavor_text": "The Chimera seek knowledge as a plant seeks water; brains straining against their organic limitations. They\u2019ll need apt teachers.\r\n-Maestra Zayev, Chimera Handler"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "tachyon-shield",
+    "name": "Tachyon Shield",
+    "faction": "machina-sapiens",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 6,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Return one health from a unit attacking you to its owner\u2019s Citadel. If this scrapped the unit, return it to their hand.",
+    "flavor_text": "Time will be our aegis now."
+}

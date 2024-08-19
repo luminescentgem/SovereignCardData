@@ -1,0 +1,15 @@
+{
+    "id": "neural-amp",
+    "name": "Neural Amp",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +2 Attack.",
+    "flavor_text": "Amplify your ideals, send them out among your troops, and they will tear your enemies asunder."
+}

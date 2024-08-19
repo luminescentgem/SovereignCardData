@@ -1,0 +1,15 @@
+{
+    "id": "link-crown",
+    "name": "Link Crown",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains Slavelink (This unit gains +1 Attack for every other unit you control in the lane.)",
+    "flavor_text": "As much a queen as any monarch."
+}

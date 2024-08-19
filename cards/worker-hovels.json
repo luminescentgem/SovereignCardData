@@ -1,0 +1,15 @@
+{
+    "id": "worker-hovels",
+    "name": "Worker Hovels",
+    "faction": "red-hegemony",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Add 1 to a card in a Forge.\r\nIf there are 3 or more D here, move them to target opponent\u2019s Citadel. Scrap all T there.",
+    "flavor_text": "Stinking hives just waiting for the overseers. I say concentration breeds contempt. -Foreman Domai"
+}

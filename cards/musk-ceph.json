@@ -1,0 +1,15 @@
+{
+    "id": "musk-ceph",
+    "name": "Musk Ceph",
+    "faction": "coriolan-exiles",
+    "attack": 2,
+    "armor": 0,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Slow (If this unit takes lethal combat damage, it does not deal damage in return.)",
+    "flavor_text": "Pack ceph are oft decked in perfumed saddles to hide the smell."
+}

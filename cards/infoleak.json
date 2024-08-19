@@ -1,0 +1,13 @@
+{
+    "id": "infoleak",
+    "name": "Infoleak",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "All Factions play with their hands revealed. (Cards are still drawn randomly during a breach).",
+    "flavor_text": "\u201cTell your friend a lie. If he keeps it secret, then tell him the truth.\u201d"
+}

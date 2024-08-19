@@ -1,0 +1,15 @@
+{
+    "id": "fractal-weave",
+    "name": "Fractal Weave",
+    "faction": "utopian-remnant",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains +1 Armor and Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",
+    "flavor_text": ""
+}

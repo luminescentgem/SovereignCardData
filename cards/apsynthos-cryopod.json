@@ -1,0 +1,15 @@
+{
+    "id": "apsynthos-cryopod",
+    "name": "Apsynthos Cryopod",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T\u27a4 Add DD to your Citadel during your growth phase.",
+    "flavor_text": "Rare finds, these relics from the ark. Do we trust the sleepers we find inside?"
+}

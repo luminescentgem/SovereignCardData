@@ -1,0 +1,15 @@
+{
+    "id": "newbloods",
+    "name": "Newbloods",
+    "faction": "myrmidon-dominion",
+    "attack": 2,
+    "armor": 0,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "If this unit deals lethal combat damage, flip a health token on it.\r\nDuring your upkeep, you may restore health to this unit from your Citadel.",
+    "flavor_text": ""
+}

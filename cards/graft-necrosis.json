@@ -1,0 +1,13 @@
+{
+    "id": "graft-necrosis",
+    "name": "Graft Necrosis",
+    "faction": "undercity-brotherhood",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target unit loses 1 health for every augment attached to it.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "flavor_text": "A bad graft could die in hours - taking the host to hell in a span of an afternoon.\t\t\t"
+}

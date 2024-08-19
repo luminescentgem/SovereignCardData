@@ -1,0 +1,15 @@
+{
+    "id": "merchant-caravan",
+    "name": "Merchant Caravan",
+    "faction": "coriolan-exiles",
+    "attack": 0,
+    "armor": 1,
+    "health": 5,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human\/xeno"
+    ],
+    "card_effect": "During your upkeep you may choose another Faction, and trade a card in your hand for a random card from theirs.",
+    "flavor_text": ""
+}

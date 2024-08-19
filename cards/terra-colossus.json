@@ -1,0 +1,15 @@
+{
+    "id": "terra-colossus",
+    "name": "Terra Colossus",
+    "faction": "neogenesis-church",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "When you score an Echo, you may place a D here from the Creche.\r\nT: Add any amount of health to target units using D from this facility (you may do this at any time, so long as there are no T here).",
+    "flavor_text": ""
+}

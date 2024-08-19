@@ -1,0 +1,15 @@
+{
+    "id": "webweave-spies",
+    "name": "Webweave Spies",
+    "faction": "sovereign-dronestate",
+    "attack": 2,
+    "armor": 1,
+    "health": 2,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Cloak (When attacking, may ignore the first unit in the enemy lane. In a breach, this unit always uses its full Attack value.)",
+    "flavor_text": "I don\u2019t need to be a chimera to know what you\u2019re hiding."
+}

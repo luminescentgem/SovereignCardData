@@ -1,0 +1,15 @@
+{
+    "id": "stalk-tenders",
+    "name": "Stalk Tenders",
+    "faction": "cult-of-apsynthos",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Add +1 D to your Citadel during your growth phase.",
+    "flavor_text": "Certainly diligent little things \u2014 are they the caretakers or the cattle?\r\n Ranna Myren, Promethea Probe Team"
+}

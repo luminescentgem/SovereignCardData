@@ -1,0 +1,15 @@
+{
+    "id": "stitch-tanks",
+    "name": "Stitch Tanks",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "T: Target unit adds 1 health from the Creche.",
+    "flavor_text": ""
+}

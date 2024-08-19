@@ -1,0 +1,13 @@
+{
+    "id": "drone-riots",
+    "name": "Drone Riots",
+    "faction": "sovereign-dronestate",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Target a facility. That player may choose to scrap the facility (scrapping all D) or scrap all T in their colony (minimum 1).",
+    "flavor_text": ""
+}
