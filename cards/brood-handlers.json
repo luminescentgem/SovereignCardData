@@ -1,7 +1,7 @@
 {
     "id": "brood-handlers",
     "name": "Brood Handlers",
-    "faction": "myrmidon-dominion",
+    "faction": "windwalker-clans",
     "attack": 1,
     "armor": 1,
     "health": 3,

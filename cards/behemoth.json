@@ -1,7 +1,7 @@
 {
     "id": "behemoth",
     "name": "Behemoth",
-    "faction": "myrmidon-dominion",
+    "faction": "windwalker-clans",
     "attack": 4,
     "armor": 2,
     "health": 2,
