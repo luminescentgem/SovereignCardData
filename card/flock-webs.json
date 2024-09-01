@@ -1,0 +1,15 @@
+{
+    "id": "flock-webs",
+    "name": "Flock Webs",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit is Slow (If this unit takes lethal combat damage, it does not deal damage in return.)\r\nIf this unit deals combat damage to a unit, this card becomes attached to that unit.",
+    "flavor_text": ""
+}

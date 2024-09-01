@@ -1,0 +1,15 @@
+{
+    "id": "lilin-hive",
+    "name": "Lilin Hive",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "If a unit you control loses health, you may place the token here instead of scrapping it. You cannot remove tokens from this card. \r\nFor every 4 citizens here, units you control do +1 combat damage.",
+    "flavor_text": ""
+}

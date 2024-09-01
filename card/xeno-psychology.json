@@ -1,0 +1,13 @@
+{
+    "id": "xeno-psychology",
+    "name": "Xeno Psychology",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Your units gain +1 Attack.",
+    "flavor_text": "We\u2019re looking at a myconeural network with a far greater magnitude than the human brain. We are the virus here.\r\n-Ranna Myren, Promethea Probe Team"
+}

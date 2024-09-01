@@ -1,0 +1,15 @@
+{
+    "id": "shroud",
+    "name": "Shroud",
+    "faction": "myrmidon-dominion",
+    "attack": 2,
+    "armor": 1,
+    "health": 2,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Airborne (Each airborne unit may move during your move phase)",
+    "flavor_text": "The real terror is behind you, when the second shroud blocks out the sun."
+}

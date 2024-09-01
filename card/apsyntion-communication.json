@@ -1,0 +1,13 @@
+{
+    "id": "apsyntion-communication",
+    "name": "Apsyntion Communication",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 0,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Draw a card, then draw a card for each Xeno in play.",
+    "flavor_text": "<are you the song or the singer>\r\n-First recording from Promethea probe"
+}

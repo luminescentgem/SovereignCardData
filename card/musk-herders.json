@@ -1,0 +1,15 @@
+{
+    "id": "musk-herders",
+    "name": "Musk Herders",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 0,
+    "health": 4,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "human"
+    ],
+    "card_effect": "Resilient (Restore one health from the Creche during your growth phase.)\r\nIf this unit is at full health, you gain +1 T during your growth phase.",
+    "flavor_text": "Herdsmen returning with a full flock are heroes for a day."
+}

@@ -1,0 +1,15 @@
+{
+    "id": "spawning-pits",
+    "name": "Spawning Pits",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 4,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Restore 1 health to a unit you control from the Creche.",
+    "flavor_text": "Neuroplastic fungal mats remarkably similar to our own creche tech - a fractal bridge between our species."
+}

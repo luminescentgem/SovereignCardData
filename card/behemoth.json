@@ -1,0 +1,15 @@
+{
+    "id": "behemoth",
+    "name": "Behemoth",
+    "faction": "myrmidon-dominion",
+    "attack": 4,
+    "armor": 2,
+    "health": 2,
+    "cost": 8,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",
+    "flavor_text": "The behemoth is more like a force of nature than a living thing, and what man would choose to fight a hurricane?"
+}

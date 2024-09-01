@@ -1,0 +1,13 @@
+{
+    "id": "bury",
+    "name": "Bury",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Move target unit to the back of any lane its owner controls. While this reflex is active, this unit gets -1 Attack and +1 Armor.",
+    "flavor_text": ""
+}

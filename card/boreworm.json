@@ -1,0 +1,15 @@
+{
+    "id": "boreworm",
+    "name": "Boreworm",
+    "faction": "myrmidon-dominion",
+    "attack": 4,
+    "armor": 1,
+    "health": 1,
+    "cost": 5,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",
+    "flavor_text": "We\u2019re looking at Eden\u2019s defense system. Who are we to spit in the face of God?\r\n-Vergil, Brood Handler"
+}

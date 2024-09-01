@@ -1,0 +1,15 @@
+{
+    "id": "brood-handlers",
+    "name": "Brood Handlers",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 1,
+    "health": 3,
+    "cost": 3,
+    "type": "unit",
+    "sub_types": [
+        "chimera"
+    ],
+    "card_effect": "Adjacent Xenos gain +1 Attack, and may restore 1 health from the Creche during your upkeep.",
+    "flavor_text": "<your song is our song. the others must now be silent>\r\n-End of Promethea Probe logs"
+}

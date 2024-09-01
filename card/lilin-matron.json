@@ -1,0 +1,15 @@
+{
+    "id": "lilin-matron",
+    "name": "Lilin Matron",
+    "faction": "myrmidon-dominion",
+    "attack": 1,
+    "armor": 1,
+    "health": 1,
+    "cost": 4,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "Add one health from the Cr\u00e8che during your upkeep.\r\nSquad (This unit gets +1 Attack for every health on it.)",
+    "flavor_text": "Her children are legion."
+}

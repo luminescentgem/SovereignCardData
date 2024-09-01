@@ -1,0 +1,13 @@
+{
+    "id": "contact",
+    "name": "Contact",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 1,
+    "type": "reflex",
+    "sub_types": [],
+    "card_effect": "Draw a card. If it is a unit, you may add it to the front of a lane you control with 1 health added from the Creche. If not, return it to the top of the deck.",
+    "flavor_text": "My fingers brushed chitin and I heard the planet speak.\r\n-Ranna Myran, Promethea Probe Team"
+}

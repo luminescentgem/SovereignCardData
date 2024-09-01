@@ -1,0 +1,15 @@
+{
+    "id": "xenophagy",
+    "name": "Xenophagy",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "augment",
+    "sub_types": [
+        "unit"
+    ],
+    "card_effect": "This unit gains Consume (If this unit deals lethal combat damage, add one health from the defeated unit.)",
+    "flavor_text": ""
+}

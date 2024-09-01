@@ -1,0 +1,15 @@
+{
+    "id": "brood-den",
+    "name": "Brood Den",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 3,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D\u27a4 When you remove a D from this facility, you may add it to a target Xeno unit.",
+    "flavor_text": "Lilin Matrons die protecting their final clutch \u2014 a first meal for the last born."
+}

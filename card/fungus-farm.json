@@ -1,0 +1,15 @@
+{
+    "id": "fungus-farm",
+    "name": "Fungus Farm",
+    "faction": "myrmidon-dominion",
+    "attack": null,
+    "armor": null,
+    "health": null,
+    "cost": 2,
+    "type": "colony",
+    "sub_types": [
+        "facility"
+    ],
+    "card_effect": "D: Add 1 D to this card from the Creche.",
+    "flavor_text": "Lilin biostructures are complex neural weaves. A fungus farmer is as much an agriculturist as he is a psychiatrist."
+}

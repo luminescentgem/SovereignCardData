@@ -1,0 +1,15 @@
+{
+    "id": "lilin-vultures",
+    "name": "Lilin Vultures",
+    "faction": "myrmidon-dominion",
+    "attack": 0,
+    "armor": 1,
+    "health": 1,
+    "cost": 2,
+    "type": "unit",
+    "sub_types": [
+        "xeno"
+    ],
+    "card_effect": "If any unit is scrapped, you may add a health to this unit from the Creche.\r\nSquad (This unit gets +1 Attack for every health on it.)",
+    "flavor_text": ""
+}
