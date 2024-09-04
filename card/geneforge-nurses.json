@@ -5,7 +5,7 @@
     "attack": 1,
     "armor": 1,
     "health": 3,
-    "cost": null,
+    "cost": 2,
     "type": "unit",
     "sub_types": [
         "human"
